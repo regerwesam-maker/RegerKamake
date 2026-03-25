@@ -1,24 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1p7D0M.png" group-title="KURDISH", Rudaw HD
-https://shls-rudaw-live.ercdn.net/rudawlive/rudawlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8QjU0rF.png" group-title="KURDISH", Kurdistan 24
-https://k24-live.ercdn.net/k24/k24.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XU6O8A9.png" group-title="KURDISH", WAAR TV
-https://shls-waar-live.ercdn.net/waarlive/waarlive.m3u8
-
-#EXTINF:-1 group-title="KURDISH", Ava Entertainment
-https://shls-ava-live.ercdn.net/avalive/avalive.m3u8
-
-#EXTINF:-1 group-title="SPORTS", beIN SPORTS NEWS
-http://beinsports.com/live/news.m3u8
-
-#EXTINF:-1 group-title="MOVIES", KURD FOX
-https://live.kurdfox.com/live/kurdfox/playlist.m3u8
-
-#EXTINF:-1 group-title="KIDS", PELISTANK TV
-https://shls-pelistank-live.ercdn.net/pelistanklive/pelistanklive.m3u8
-
-#EXTINF:-1 group-title="JOKER", MUHAMMAD JOKER CH
-https://mhammadhusen-del.github.io/Muhammad2026/
+#EXTINF:-1 group-title="KURDISH",KURDISTAN TV
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 group-title="KURDISH",WAAR TV
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 group-title="KURDISH",RUDAW TV
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 group-title="SPORTS",SSC SPORTS 1
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 group-title="MOVIES",MBC 2
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 group-title="MOVIES",OSN MOVIES
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 group-title="KIDS",SPACETOON
+https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
