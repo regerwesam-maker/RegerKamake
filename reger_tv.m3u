@@ -1,4 +1,9 @@
-
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw HD" tvg-logo="https://www.rudaw.net/Content/images/rudaw-logo.png" group-title="REGER TV",RUDAW TV HD
+https://live.rudaw.net/hls/rudaw-tv/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WAAR TV" tvg-logo="https://waartv.tv/wp-content/uploads/2021/01/waar-logo.png" group-title="REGER TV",WAAR TV HD
+https://live.waartv.tv/hls/waar/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://channel8.com/logo.png" group-title="REGER TV",CHANNEL 8 HD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Reger_Kamake_01" tvg-logo="https://raw.githubusercontent.com/regerwesam-maker/RegerKamake/main/logo.png" group-title="REGER TV",Reger_Kamake_01
 http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/1.m3u8
