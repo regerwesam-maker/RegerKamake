@@ -1,17 +1,1305 @@
 #EXTM3U
-#EXTINF:-1 group-title="KURDISH",KURDISTAN TV
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
-#EXTINF:-1 group-title="KURDISH",WAAR TV
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
-#EXTINF:-1 group-title="KURDISH",RUDAW TV
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
-#EXTINF:-1 group-title="SPORTS",SSC SPORTS 1
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
-#EXTINF:-1 group-title="MOVIES",MBC 2
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
-#EXTINF:-1 group-title="MOVIES",OSN MOVIES
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
-#EXTINF:-1 group-title="KIDS",SPACETOON
-https://raw.githubusercontent.com/mhammadhusen-del/Muhammad2026/main/MUHAMMAD2026TV.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Xqy7FscX/file-00000000486871fd9dbd2b3905a035b3.png" group-title="KURDISH ",📺MIRNA TV IP📺
+https://github.com/mhammadhusen-del/Mirna-video-/raw/refs/heads/main/lv_0_20260320174108%20(1).mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y2NQJjfJ/Picsart-26-02-19-15-43-21-609.jpg" group-title="KURDISH ",AVA TV HD
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/XJkXDBSg/Picsart-26-02-19-15-32-35-600.jpg" group-title="KURDISH ",RUDAW HD
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/XvMJjknG/Picsart-26-02-19-15-35-30-013.jpg" group-title="KURDISH ",Channel 8 HD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T1P27kc2/Picsart-26-02-19-15-29-34-796.jpg" group-title="KURDISH ",NRT HD
+http://109.71.252.138/NRT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Pr9fyQpR/Picsart-26-02-19-15-40-03-525.jpg" group-title="KURDISH ",K24 FHD
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DZv70CHL/Picsart-26-02-19-15-45-08-836.jpg" group-title="KURDISH ",KURDSAT
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1t3Zs8Nx/Picsart-26-02-19-15-46-29-239.jpg" group-title="KURDISH ",KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BQHZh1Tm/Picsart-26-02-19-15-48-12-725.jpg" group-title="KURDISH ",NRT 2
+https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FRYN0fFd/Picsart-26-02-19-15-50-19-557.jpg" group-title="KURDISH ",NRT 3
+http://blue4k.net:8880//884647623798/WaxzPSSzyY/287915
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="KURDISH ",NRT 4
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="KURDISH ",GALI KURDISTAN
+https://silicon.kurdlive.xyz/gk/gksat/chunklist_w139999815.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Wjcg6dk3/KDTV.png" group-title="KURDISH ",KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/44C801bx/khak.png" group-title="KURDISH ",KHAK TV
+http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURDISH ",KURDMAX سۆرانی
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURDISH ",KURDMAX کرمانجی
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="KURDISH ",KURDMAX SHOW سۆرانی
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="KURDISH ",KURDMAX SHOW کرمانجی
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="KURDISH ",NEW LINE 1
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",NEW LINE 2
+http://109.71.252.138/Newline2/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xfcFTVrs/MOVIE.png" group-title="KURDISH ",Newline Movies
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jm475Wtd/newdrama.png" group-title="KURDISH ",Newline Drama
+http://109.71.252.138//Newlinedrama/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tRTXqFLH/BOLLYWOOD.png" group-title="KURDISH ",Newline Bollywood
+http://109.71.252.138/Newlineblodey/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",Newline Kids
+http://109.71.252.138/Newlinekids/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",Newline sport
+http://109.71.252.138/Nwinesport/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="KURDISH ",ZED TV
+http://109.71.252.138/Zed/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="KURDISH ",ZED TV PLUS
+http://109.71.252.138/Zedpluss/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",ASTERA FAMILY
+http://109.71.252.138/Asterafaey/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Baby
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yV9KrgjP/ASTERAMOVIE.png" group-title="KURDISH ",Astera Movies
+http://109.71.252.138/Astersmoviess/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/npRnstMv/show.png" group-title="KURDISH ",Astera Show
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PfX5Y3J2/ASTERA.png" group-title="KURDISH ",Astera Sport
+http://109.71.252.138/newline1/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CbKHDPt/Picsart-26-02-25-03-08-12-700.png" group-title="KURDISH ",Qalam
+http://109.71.252.138/Qalamtv/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZTJ7px4k/qalamain.png" group-title="KURDISH ",Qalam Ayni
+http://109.71.252.138/qalamaney/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fzK88tW3/qalam.png" group-title="KURDISH ",Qalam geoghraphic
+http://109.71.252.138/Qalamgracoey/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c1Pp6xKs/Picsart-26-02-25-03-09-34-400.jpg" group-title="KURDISH ",Qalam kids
+http://109.71.252.138/Qalamkids/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VfVzHhjT/reng.png" group-title="KURDISH ",RENG TV
+http://blue4k.net:8880//884647623798/WaxzPSSzyY/567099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FhcvRkSL/rengdc.png" group-title="KURDISH ",RENG DOCUMENTARY
+http://blue4k.net:8880//884647623798/WaxzPSSzyY/567233
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",shnatv
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gc5XVBZ9/SHNAQ.png" group-title="KURDISH ",SHNA TV QURAN
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L4N2GGFG/Pics-Art-02-11-02-22-19.png" group-title="KURDISH ",LIKE MOVIES HD
+http://blue4k.net:8880//884647623798/WaxzPSSzyY/567207
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WpMq857p/Pics-Art-25-09-09-14-49-31-102.png" group-title="KURDISH ",ZAGROS TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="KURDISH ",DUHOK-TV
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISH ",zaroktv
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6pgykLgw/photo-2026-02-23-11-25-56.jpg" group-title="KURDISH ",Bask Plus
+http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9XL22QVG/4bk1a355c172782htx-800-C450.jpg" group-title="KURDISH ",Sahar Kurdi
+https://fn1-cdn.sepehrtv.org/securelive3/saharkurdsd/saharkurdsd.m3u8?s=EKz3sMXXhoIfleGOKKHKUw&t=1746899563
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9Tw96J5/Pics-Art-25-08-01-16-59-38-543.png" group-title="KURDISH ",Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gzCxv2tk/ISHTAR.png" group-title="KURDISH ",ISHTAR TV
+http://ishtartv.badinan.xyz:1935/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wH3rzSLJ/kurdana.png" group-title="KURDISH ",KURDANA
+http://avrstream.com:1935/live/Kurd7HD/Kurd7HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/y1r0XkCp/minara.png" group-title="KURDISH ",Minara FM
+http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HHw4Qmq7/bang.png" group-title="KURDISH ",BANGAWAZ ۞
+http://baskhd.ddns.net:40/live/bangawaztv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="KURDISH ",RAVAND-HD
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1P5QSGFY/BARINQ.png" group-title="KURDISH ",BARIN QURAN ۞
+http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C0vSLd4h/KOMAL.png" group-title="KURDISH ",KOMAL HD ۞
+http://iptvtree.net:8080/osec/c5176e377c82/152475
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hgh3tf3r/SRUSHT.png" group-title="KURDISH ",SRUSHT ۞
+http://109.71.252.138/Sroshtyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SmHHRqFH/NIROJHD.png" group-title="KURDISH ",NIROJ-HD
+http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MKWx9X6z/36667bd9-3911-43aa-8048-1a8efd701216.png" group-title="KURDISH ",graryantv
+https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MKWx9X6z/36667bd9-3911-43aa-8048-1a8efd701216.png" group-title="KURDISH ",KURD7
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/graryanfm/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/M6MLzZMW/Rasan-1.png" group-title="KURDISH ",RASAN HD ۞
+http://109.71.252.138/Rasantvyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="KURDISH ",WARR TV
+https://ca-rt.onetv.app/Waar/index-0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="KURDISH ",KALAPUR
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/kalapurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/JRsFBRdb/IMK.png" group-title="KURDISH ",IMK HD
+http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8zcXPNJq/Pics-Art-25-08-01-20-03-35-104.png" group-title="KURDISH ",SPI TV ۞
+https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nFJkFmgm/KIDS.png" group-title="KURDISH ",spi kids 4k ۞
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="KURDISH ",SPEDA
+http://iptvtree.net:8080/osec/c5176e377c82/18798
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
+http://blue4k.net:8880//884647623798/WaxzPSSzyY/567108
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="KURDISH ",ZEVER
+http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HYBpLdHr/6F234CA9-2135-40DF-81A6-B6D3531753CE.png?dl=1" group-title="KURDISH ",Dunya Hd
+https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ChRybCtn/halabja.png" group-title="KURDISH ",HALABJA
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/JrFHTwLq/farmuda.png" group-title="KURDISH ",FarmodaTV
+http://avrstream.com:1935/live/FarmodaTV/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Yp4ChZtr/NAQS.png" group-title="KURDISH ",NaqshiMedia ۞
+http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/w6hM1JNc/IMK.png" group-title="KURDISH ",IMK QURAN HD ۞
+http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yB4Bc8M3/eman.png" group-title="KURDISH ",EMAN ۞
+http://avrstream.com:1935/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="KURDISH ",ESRA TV 1 ۞
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9VZb67Kp/essra2.png" group-title="KURDISH ",ESRA TV 2 ۞
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HdBJLdQZ/quranes-1.png" group-title="KURDISH ",ESRA Quran HD ۞
+https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH ",tvkurdi
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvkurdi/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Qhn3kMt8/minara-1.png" group-title="KURDISH ",Minara TV
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gd8T2Chz/shaista.png" group-title="KURDISH ",SHAISTA
+http://avrstream.com:1935/live/ShaistaHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gc5XVBZ9/SHNAQ.png" group-title="KURDISH ",shan quran ۞
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Dvc3yP7n/amojgari.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری  ۞
+https://app-live.org/live/a267c1b3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Dvc3yP7n/amojgari.png" group-title="KURDISH ",کەناڵی ئامۆژگاری  ۞
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/08Vjd4K2/EKURD.png" group-title="KURDISH ",EUROKURD
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tC3M34tL/Pics-Art-25-08-01-14-49-15-229.png" group-title="KURDISH ",PAYAM TV
+https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mTrjSq4N/baxcha.png" group-title="KURDISH ",AFRIN TV FHD
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yVGD4WJN/BAXCHA.png" group-title="KURDISH ",AFRIN باخچە
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2zyx7bRj/AKID.png" group-title="KURDISH ",AFRIN KIDS
+http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ry650tZB/lawan-1.png" group-title="KURDISH ",LAWAN HD
+http://136.243.155.55:8088/Lawanhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KjVhfmXT/BC48-A104-42-C9-46-F0-A50-D-27-E867-A49914.png" group-title="KURDISH ",Barin Sport hd
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/barinsport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxFf6zdt/photo-2026-02-16-06-41-54.jpg" group-title="KURDISH ",BASK ۞
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CYWrW24y/krd.png" group-title="KURDISH ",Kirkuk TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jtz9rcPP/jojo-mama.png" group-title="KURDISH ",JOJO MAMA
+http://185.189.225.150:85/BabyTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="KURDISH ",BAHA ENTERTAINMENT
+http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="KURDISH ",SHNA HD
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="KURDISH ",SOZ QURAN
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="KURDISH ",SOZ QURAN 2
+https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="KURDISH ",sozetv
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gG27BZSF/AZADI.png" group-title="KURDISH ",AZADI TV
+https://media.streambrothers.com:19360/8116/8116.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gpf0Zh1z/NOOR.png" group-title="KURDISH ",NOOR
+http://136.243.155.55:8088/Noor4k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Mxs6dwKG/SADA.png" group-title="KURDISH ",SADA
+http://sada-hd.ddns.net:40/live/sadatv/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L4N2GGFG/Pics-Art-02-11-02-22-19.png" group-title="KURDISH ",LIKE MOVIES HD
+https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rMHJGLhH/NSPORT.png" group-title="KURDISH ",Nuber Sport TV
+http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8#20e7b96a80ea54589ef41ed317d0adb5d1fdf08c75397defbf1607b6b5f83f81
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6WZ3nvyw/n.png" group-title="KURDISH ",Nuber Plus TV
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8#bd57f0c3f4618474e2effe59d7287052da35e664c0a9bbd08f59dab59f94bc3c
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vbqsHJHp/nuber.png" group-title="KURDISH ",Nuber TV
+http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8#20e7b96a80ea54589ef41ed317d0adb5d1fdf08c75397defbf1607b6b5f83f81
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CYh5Hjwq/infinity.png" group-title="KURDISH ",infinity-tv
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CJtSyGQ/pngwing-com-2.png" group-title="KURDISH ",NAT GEO WILD
+http://185.189.225.150:85/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VfgjzVjy/QURAN.png" group-title="KURDISH ",SPIQURANHD ۞
+https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8phZPXcT/bangxwaz.png" group-title="KURDISH ",BANGAWAZ ۞-Badinan
+http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd ۞
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH ",Mix SPORT
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CwBqzQh3/SRUSHT.png" group-title="KURDISH ",towheedtv
+http://avrstream.com:1935/live/towheedtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH ",LD NIJUN
+http://blue4k.net:8880//884647623798/WaxzPSSzyY/567167
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bqB96HNL/HORNZ.png" group-title="KURDISH ",HORMIZAIR
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pxVcfSY2/HORMZAR.png" group-title="KURDISH ",rasoulallahtv
+http://avrstream.com:1935/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nxR9J5Ph/SHAR.png" group-title="KURDISH ",SHAR TV
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/GLy7cXVK/shar.png" group-title="KURDISH ",SHAR TV
+https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/54qVhXT2/ALA.png" group-title="KURDISH ",ALA
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ChRybCtn/halabja.png" group-title="KURDISH ",HALABJA  TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MWVPK20S/like.png" group-title="KURDISH ",Like Movie
+https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k9dpmV2J/MMNSHOW.png" group-title="KURDISH ",MMN SHOW
+http://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/055qJj70/news.png" group-title="KURDISH ",MMN NEWS
+http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7x19m9wp/MMNM.png" group-title="KURDISH ",MMN MOVIES
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/by0Sfk4T/clip.png" group-title="KURDISH ",MMN CLIP
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1myj1tH7/MMNACT.png" group-title="KURDISH ",MMN ACTION
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/GdS0dL0X/mmnkid.png" group-title="KURDISH ",MMN KIDS
+http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/08wJZLfh/quran.png" group-title="KURDISH ",MMN QURAN
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="KURDISH ",MMN SPORT
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqqP92dr/0615623a-95a4-41cb-b757-12ac88a49764.png" group-title="KURDISH ",animalbox
+http://avrstream.com:1935/live/animalbox/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gzZc6gR6/Barinm.png" group-title="KURDISH ",BARIN MOVIES
+http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/byWG7G01/BARINF.png" group-title="KURDISH ",Barin family HD
+http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1yGh2Bc1/bnarmov.png" group-title="KURDISH ",Bnar Movies HD
+http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FrDpZwMT/BNAR.jpg" group-title="KURDISH ",Bnar HD
+http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PHF0gvx8/AVAR.png" group-title="KURDISH ",AVAR TV
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="KURDISH ",NEXT TV
+http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sDjky5CZ/photo-2024-12-16-06-33-32.jpg" group-title="KURDISH ",KANALI 21
+http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KZ9gmYdR/walla.png" group-title="KURDISH ",Wala tv
+https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9MrbxrZG/53-A9-CF85-A40-C-48-D7-95-DE-B8951-B26-A6-FD.png" group-title="KURDISH ",Astera sport
+https://live9.karwan.tv/Asterasportyusfstore/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PT7cFfRX/UTV-1.png" group-title="KURDISH ",UTV۞
+http://blue4k.net:8880//884647623798/WaxzPSSzyY/567184
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fy795N2c/61036-AD6-DF14-45-C2-833-B-59628-C937591.png" group-title="KURDISH ",Arifan DOC
+https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wxCQ4T6J/images.png" group-title="KURDISH ",Darwaza Tv
+https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH ",KORAJARTV
+http://avrstream.com:1935/live/KORAJARTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/jbAHyIv4cEzChzXHBEFcYZ-Zt9APytMoAslTKysNz-I_fVz43VOADziX_nrUbyY7Q_o" group-title="KURDISH ",DENGE ZELAL TV
+https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kc1GmCF6/8-FEE8721-F43-C-4-AE5-9-ED7-FE4-CC8-BE7725.png" group-title="KURDISH ",AVA Sports hd
+https://live9.karwan.tv/Avasporttusfstore/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH ",tvradiof
+https://live20.bozztv.com/giatv/giatv-tvradiof/tvradiof/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH ",radiokrd
+https://live20.bozztv.com/giatv/giatv-1019fmradiokrd/1019fmradiokrd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vYtrJ7t3/duhok.png" group-title="KURDISH ",DUHOK-TV
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/N0vhPjZ7/IMG-20260318-002705-903.png" group-title="KURDISH ",MIRNA TV IP
+https://github.com/mhammadhusen-del/Mirna-video-/raw/refs/heads/main/lv_0_20260320174108%20(1).mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="KURDISH ",WAAR TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kM8dYM1y/madinaa.png" group-title="KURDISH ",مەدینه۞
+http://x3m.li/live/YUSFstore077518599083/YUSFstore077518599083/1013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gGpP3sFT/AVAR.png" group-title="KURDISH ",AVAR TV
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/W2Rf8zyr/ARYAN.png" group-title="KURDISH ",ARYAN TV
+https://aryen.tv/live/tv/chunklist_w1310383755.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mbvbMJKj/BEFRIN.png" group-title="KURDISH ",BEFRIN TV
+http://avrstream.com:1935/live/BEFRIN-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HHKrCMSz/CIRA.png" group-title="KURDISH ",CIRA TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vYtrJ7t3/duhok.png" group-title="KURDISH ",DUHOK TV
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aryen.tv/_nuxt/Aryen-TV-Logo1.6c5efa57.png" group-title="KURDISH ",aryen
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HdkG8JGk/KK.png" group-title="KURDISH ",EURO-KURD
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5fXyxsZ3/HORMZIAR.png" group-title="KURDISH ",HORMIZAIR
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sVrvx0Gg/JIN.png" group-title="KURDISH ",JIN TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH ",KORAJAR TV
+http://avrstream.com:1935/live/KORAJARTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wq4bJV87/KURD7.png" group-title="KURDISH ",KURD 7
+http://avrstream.com:1935/live/Kurd7HD/Kurd7HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/D2B7DRC6/SHOW.png" group-title="KURDISH ",KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zz8cPrbM/kurdmax.png" group-title="KURDISH ",KURDMAX
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1650756524.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/37q1knCP/KIDCO.png" group-title="KURDISH ",KIDCO
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TdBcZ9Fv/MED.png" group-title="KURDISH ",MED MUSIC
+https://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LHtZvs2S/NIROJTV.png" group-title="KURDISH ",NIROJ QURAN
+http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x9d9M9ZC/NIROJ.png" group-title="KURDISH ",NIROJ HD
+http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2YXTDYhD/NR1.png" group-title="KURDISH ",NR1KURD
+https://142.132.133.190:1935/live/NR1_KURD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MZGBV0bD/NEXT.png" group-title="KURDISH ",NEXT TV
+https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jRZq84r3/rawand.png" group-title="KURDISH ",RAVAND TV
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dvgpmBWD/ronahi.png" group-title="KURDISH ",RONAHI
+https://ronahi-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cxmNnwXX/ROJAVA.png" group-title="KURDISH ",ROJAVA
+https://rojava-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hpk6H2B2/STERK.png" group-title="KURDISH ",STERK
+https://muzkurd.com/sterktv/sterk/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Skh5bzhg/TRT.png" group-title="KURDISH ",TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="KURDISH ",ZEVER
+http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISH ",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="KURDISH ",BahraHD
+http://51.89.152.180/live/BahraHD/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
+http://142.132.133.190:1935/live/peshmerge/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8nPqWBx/Picsart-26-02-19-16-28-11-033.jpg" group-title="Kurdish Sports",NRT Sport 4K
+http://109.71.252.138/nrtsport/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpYhbjx8/Picsart-26-03-21-00-15-07-671.jpg" group-title="Kurdish Sports",AVA Sport 4K
+http://109.71.252.138/AVASPORT2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="Kurdish Sports",ASTERA SPORT1
+http://109.71.252.138/asterasportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="Kurdish Sports",Duhok Sport HD
+http://109.71.252.138/DUHOKSPORT/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="Kurdish Sports",Zaxo Sport
+http://109.71.252.138/zaxosportyusfiptv/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/IM2u90WWK9AQs71E0wqR71eSfn4cQt1eauVOYu1DQwUe9pg0iH-jaSMkmLrlYmMZ_GXOXZUybg=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdish Sports",ld sport
+http://109.71.252.138/LDSPORTYUSFIPTV/index.m3u8?token=hnaKCXHetrygerteL5cys1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 1 /720P
+http://sportook.online/BEIN-S1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORT 2  4k
+http://sportook.online/BEIN-S2/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORT 3  4k
+http://sportook.online/BEIN-S3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 4 4K
+http://sportook.online/BEIN-S4/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 5 4K
+http://sportook.online/BEIN-S5/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 6 4K
+http://sportook.online/BEIN-S6/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 7 4K
+http://sportook.online/BEIN-S7/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DzKfGQ83/Picsart-26-03-25-18-40-06-192.jpg" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 8 4K
+http://blue4k.net:8880//884647623798/254192480919/12351
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 1 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641618.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 2 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641619.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 3 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641620.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 4 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641621.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 5 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641622.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 6 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641623.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 7 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641611.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 8 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641612.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 9 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641613.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY1THpCN/Picsart-26-03-19-23-43-29-557.png" group-title="Alwan Network 4K",Alwan Sport 10 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641614.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7JZ8sdf/image.png" group-title="TR FEED SPORTS SPECIAL",★✦ XC FEED SPORTS ✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/54170
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7JZ8sdf/image.png" group-title="TR FEED SPORTS SPECIAL",XC FEED RAW
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103858
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7JZ8sdf/image.png" group-title="TR FEED SPORTS SPECIAL",XC FEED HEVC
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103859
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7JZ8sdf/image.png" group-title="TR FEED SPORTS SPECIAL",XC FEED HD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103860
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7JZ8sdf/image.png" group-title="TR FEED SPORTS SPECIAL",XC FEED FHD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103997
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC | SPECIAL FEED 4K
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97013
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC | SPECIAL FEED 1080P [50FPS]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97010
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC | SPECIAL FEED 1080P [50FPS] 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97011
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC | SPECIAL FEED 720P [25FPS]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97009
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC | SPECIAL FEED 576P [25FPS]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97012
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC SPECIAL FEED 1 FHD [50FPS]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/95228
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC SPECIAL FEED 1 FHD ULTRA [50FPS]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96144
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC SPECIAL FEED 1 HD [50FPS]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/95229
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TR FEED SPORTS SPECIAL",XC SPECIAL FEED 1 LOW BITRATE [50FPS]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96145
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",★✦★ SPECIAL BOX FILIMLER 24/7 ★✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96371
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",FILM 7/24 EFSANE 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96572
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",FILM 7/24 EFSANE 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96573
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",FILM 7/24 EFSANE 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96574
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",FILM 7/24 EFSANE 4
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96575
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ov44L1y.png" group-title="FULL TR 24/7 SPECIAL",FILIM 24/7 KEMAL SUNAL 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96602
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ov44L1y.png" group-title="FULL TR 24/7 SPECIAL",FILIM 24/7 KEMAL SUNAL 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96603
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ov44L1y.png" group-title="FULL TR 24/7 SPECIAL",FILIM 24/7 KEMAL SUNAL 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96604
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ov44L1y.png" group-title="FULL TR 24/7 SPECIAL",FILIM 24/7 KEMAL SUNAL 4
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96605
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 JACKIE CHAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96372
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D9mEWRV.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 JAMES BOND
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96373
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8Pmy34u.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 TOM CRUISE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96374
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ix6TnO7.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 HOBBIT
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96375
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 ORUMCEK ADAM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96384
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o4SL5Th.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 RECEP IVEDIK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96385
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nquQOl5.png" group-title="FULL TR 24/7 SPECIAL",FILM 7/24 ZEKI VE METIN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96736
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q3plG40.png" group-title="FULL TR 24/7 SPECIAL",FILM 7/24 KADIR INANIR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96737
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uclwt1L.png" group-title="FULL TR 24/7 SPECIAL",YESILCAM 7/24 NOSTALJI 1 [SIYAH BEYAZ]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96386
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uclwt1L.png" group-title="FULL TR 24/7 SPECIAL",YESILCAM 7/24 NOSTALJI 2 [SIYAH BEYAZ]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96387
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uclwt1L.png" group-title="FULL TR 24/7 SPECIAL",YESILCAM 7/24 NOSTALJI 3 [SIYAH BEYAZ]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96388
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uclwt1L.png" group-title="FULL TR 24/7 SPECIAL",YESILCAM 7/24 NOSTALJI 4 [SIYAH BEYAZ]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96389
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uclwt1L.png" group-title="FULL TR 24/7 SPECIAL",YESILCAM 7/24 NOSTALJI 5 [SIYAH BEYAZ]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96390
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uclwt1L.png" group-title="FULL TR 24/7 SPECIAL",YESILCAM 7/24 NOSTALJI 6 [SIYAH BEYAZ]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96391
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZno3YV.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 CUNEYT ARKIN 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96392
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZno3YV.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 CUNEYT ARKIN 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96393
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZno3YV.png" group-title="FULL TR 24/7 SPECIAL",FILIM 7/24 CUNEYT ARKIN 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96394
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",★✦★ SPECIAL BOX DIZILER 24/7 ★✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96418
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/stSKJHN.png" group-title="FULL TR 24/7 SPECIAL",DIZI 7/24 CENNET MAHALLESI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98617
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 TESKILAT SEZON 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97394
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7ZLyzlC.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 VIKINGLER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96419
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJg7uMq.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 GAME OF THRONES
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96420
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cmDAShJ.png" group-title="FULL TR 24/7 SPECIAL",DIZI 7/24 CHICAGO P.D.
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96674
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OEU41Qh.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 THE PROTECTOR [HAKAN MUHAFIZ]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96422
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JXbpHu3.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 TOLGSHOW FILTRESIZ [EXXEN]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96423
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MRcfVv3.png" group-title="FULL TR 24/7 SPECIAL",DIZI 7/24 GULDUR GULDUR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96678
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 KONUSANLAR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96666
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M8yEnu2.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 KONUSANLAR YOU TUBE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96661
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ItMlVIK.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 AILE SIRKETI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96425
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nfvQEM5.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 BEHZAT C
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96426
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RfPwJ61.png" group-title="FULL TR 24/7 SPECIAL",DIZI 7/24 CALIKUSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96662
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 ARIZA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96429
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 COCUKLAR DUYMASIN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96432
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HkKCMR4.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 CUKUR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96434
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U3ZNDkZ.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 DIRILIS ERTUGRUL 1. SEZON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96435
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U3ZNDkZ.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 DIRILIS ERTUGRUL 2. SEZON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96436
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U3ZNDkZ.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 DIRILIS ERTUGRUL 3. SEZON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96437
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U3ZNDkZ.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 DIRILIS ERTUGRUL 4. SEZON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96438
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U3ZNDkZ.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 DIRILIS ERTUGRUL 5. SEZON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96439
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 ICERDE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96440
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITPIde7.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 MUHTESEM YUZYIL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96684
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FK85Tgg.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 EZEL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96441
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9W2c5yG.png" group-title="FULL TR 24/7 SPECIAL",DIZI 7/24 CICEK TAKSI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96669
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 ASK-I MEMNU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96442
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",DIZI 7/24 ASMALI KONAK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96697
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PlPDlgH.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 BINBIR GECE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96443
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Hgo3rOC.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 KURTLAR VADISI 1-150 BÖLÜM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96444
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Hgo3rOC.png" group-title="FULL TR 24/7 SPECIAL",DIZI 24/7 KURTLAR VADISI 151-300 BÖLÜM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96445
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",★✦★ SPECIAL BOX COCUK 24/7 ★✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96395
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 TATLIS TV
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97392
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 HOT WHEELS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97393
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96927
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96928
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96929
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 4
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96930
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 5
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96931
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 6
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96932
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 7
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96933
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 8
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96934
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 9
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96935
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 COCUKBOX 10
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96936
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 KUKULI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96396
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 HAPSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96397
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 KRAL SAKIR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96398
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 RAFADAN TAYFA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96399
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 NILOYA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96400
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 ARI MAYA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96401
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 PEPEE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96402
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 EMIRAY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96403
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 SCOOBY DO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96404
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 SÜNGERBOB
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96405
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 POKEMON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96406
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 MÜFETTIS GADGET
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96407
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 KIPO AND THE AGE OF WONDERBEATS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96408
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 VOLTRON 84
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96409
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 HEIDI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96410
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 KELOGLAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96411
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 MASA ILE KOCA AYI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96412
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cnhXZe6.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 SEKER HOCA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96413
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 LUCKY LUKE [RED KID]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96414
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 ZORRO EFSANESI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96415
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 RICHIE RICH
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96416
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3uoR4eD.png" group-title="FULL TR 24/7 SPECIAL",COCUK 24/7 JETGILER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96417
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fye76pN.png" group-title="FULL TR 24/7 SPECIAL",★✦★ TR SPECIAL BOX MUZIK ★✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96513
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ByQPLoM.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 7/24 AKUSTIK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98618
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ByQPLoM.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 7/24 ENSTRUMENTAL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98619
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ByQPLoM.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 7/24 FON ENSTRUMENTAL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98620
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AYSbrP4.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 KIVIRCIK ALI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96620
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s3yX9Dz.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 RAP.HOUSE.POP
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96518
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gtkIL0Y.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 TURKISH POP
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96668
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FmeZ8ef.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 TURKISH POP 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96672
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lyhl3IL.png" group-title="FULL TR 24/7 SPECIAL",SAMPIYON FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96819
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s3yX9Dz.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 RAP
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99941
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KGIarId.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 POP REMIX
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99942
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 POP REMIX [CANLI]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96886
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 POP CANLI [KRAL]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96524
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 METRO CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96525
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 BEST CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96526
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 ARABESK CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96527
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 BABA [ARABESK FANTAZI SARKILAR] CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96528
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 ARABESKIN SESI CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96529
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 DAMAR CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96530
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 DAMAR 2 CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96841
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 ANGARA CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96845
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 RADYO 2000 CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96846
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 NOSTALJI CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96847
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 KARADENIZ CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96531
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 GOKKUSAGIM CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96532
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 DUBLE CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96533
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 ASK-FM CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96534
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 TURKULER AKUSTIK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96535
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL TR 24/7 SPECIAL",MUZIK 24/7 VIRGIN CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96536
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-atSLBDwDRvM/WZvt7gcYrzI/AAAAAAAATuA/2nbrjNajwJoGapc_PuuM6X50ElJq4_Z-gCLcBGAs/s1600/90.png" group-title="FULL TR 24/7 SPECIAL",FM: 90'LAR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101049
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-18bA4faENaM/WZvySNym_sI/AAAAAAAATuw/WPBpJs7n9wElVEyJAZiE-cwkgDHfI_0eACLcBGAs/s1600/a.png" group-title="FULL TR 24/7 SPECIAL",FM: ADANA FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101054
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-ViUmV29x3qY/WbE6pZDf2TI/AAAAAAAAVQI/EPwd45U29D08VuW__i6Ca_ZlDgwugS0bgCLcBGAs/s1600/a.png" group-title="FULL TR 24/7 SPECIAL",FM: AKRA FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101062
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-9IyicWL5ZRU/WZwOlsUj3nI/AAAAAAAATwM/T_o5F4OdyEs3N3cMLKl9WJtnHT-6IvdnwCLcBGAs/s1600/08.png" group-title="FULL TR 24/7 SPECIAL",FM: AKSARAY KRAL FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101064
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-ggQ2Wwq1-Yo/Wj0FNmqOB4I/AAAAAAAAVnw/xVOeLfKJ8poAW8HWn7gny6b_ABKO9LhqwCLcBGAs/s1600/02.png" group-title="FULL TR 24/7 SPECIAL",FM: ARABESK ALEMI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101068
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-ZeJ9KJPMnk4/WZwcrBtjwjI/AAAAAAAATyM/9Rj4XbCFagcnAZ52S4axkgYT7X0qOloBgCLcBGAs/s1600/13.png" group-title="FULL TR 24/7 SPECIAL",FM: ARABESKLAND
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101073
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-rsRfFqqSF9M/WZwegbrBEQI/AAAAAAAATyg/Ie4kF9-MYvUBbNBnhEAQ8_w2xTgY_t8fwCLcBGAs/s1600/17.png" group-title="FULL TR 24/7 SPECIAL",FM: ASK FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101075
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-o0KdLbjN2rE/WbFEfCgOsnI/AAAAAAAAVRI/QDOEE3TF9M0HQWLJnTxnwp4dIbslNCnrwCLcBGAs/s1600/a.png" group-title="FULL TR 24/7 SPECIAL",FM: AVRASYA TURK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101076
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-cEPVP5jztjA/VgwZVCtemHI/AAAAAAAAMJk/6hIuRoXfaII/s1600/trtantalyard.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT ANTALYA RADYOSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101038
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-QrO5wLzfyTY/VgwZlxuhloI/AAAAAAAAMJs/iDPdh2y7VBQ/s1600/trtcukurovard.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT CUKUROVA RADYOSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101039
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-chbW5w5tvAQ/VgwZ3yEImbI/AAAAAAAAMJ0/XByLSKpIfoA/s1600/trtgap.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT GAP DIYARBAKIR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101040
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-ZRSZPsOLms8/VgwbeR1Zk5I/AAAAAAAAMKE/oCk-106bO2w/s1600/trterzurumrd.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT ERZURUM RADYOSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101041
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-z13-CPTVn0U/VgwbtxCiD-I/AAAAAAAAMKM/rKdXhB1y5JQ/s1600/trttrabzon.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT TRABZON RADYOSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101042
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-Dvaw3TXzF7Q/VgwW8kGW12I/AAAAAAAAMJA/lOA0qUwYoK4/s1600/memleketimfm.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT MEMLEKETIM FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101043
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-7ZgCLQU_9PY/VgwAv3XLSSI/AAAAAAAAMIg/pCj6OW6SBjI/s1600/trttsesi.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT TURKIYE'NIN SESI RADYOSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101044
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-S3puqC9XoOA/Vgwb9N9mS1I/AAAAAAAAMKU/k6PxA3QmSQo/s1600/trtvotworld.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT VOICE OF TURKEY WORLD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101045
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-ykuvyWLoGxc/VgwcpV0sCBI/AAAAAAAAMKk/RpyuGy_Kl50/s1600/trtvoteast.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT VOICE OF TURKEY EAST
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101046
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-RZPgBIuI-Qw/VgwcTV4LhtI/AAAAAAAAMKc/O7ZdH0AakvI/s1600/trtvotwest.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT VOICE OF TURKEY WEST
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101047
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-RyMZVEgHCug/Vgwc6f3vErI/AAAAAAAAMKs/fy9UrmLF-i8/s1600/trtradyo6.png" group-title="FULL TR 24/7 SPECIAL",FM: TRT RADYO 6
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101048
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-h8eAvKgitbU/WZwfh5I1HSI/AAAAAAAATys/vjcod7h2Su8k3wSzOFCFw9eCQow8q3Q4QCLcBGAs/s1600/21.png" group-title="FULL TR 24/7 SPECIAL",FM: BABA RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101077
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-4k0929w4kCo/WZ8DHjaKsJI/AAAAAAAAT1I/iZvWGKgRRSIoPrAMjWzVIIBpViB3WYGfQCLcBGAs/s1600/05.png" group-title="FULL TR 24/7 SPECIAL",FM: BEST FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101082
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-eYkVv9MUAtQ/WZ8INOQJRUI/AAAAAAAAT10/XRwOVnHUHekGPuHqnFSoUoEynb3-ECovgCLcBGAs/s1600/10.png" group-title="FULL TR 24/7 SPECIAL",FM: BIGA FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101084
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-edZ1Pup4v_o/WZ8IoosUR6I/AAAAAAAAT14/F6PBLVZIU9EI2phfN9yyLydnBZ03iFsTgCLcBGAs/s1600/11.png" group-title="FULL TR 24/7 SPECIAL",FM: BILECIK FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101085
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-n9o7m5JMG5I/WaA6ukfDWEI/AAAAAAAAT7I/F3Ng12uqo5cmS_B0Dv0krAmwexmH8XiCgCLcBGAs/s1600/s.png" group-title="FULL TR 24/7 SPECIAL",FM: BURSA RADYO S
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101098
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-kqCl6mFOhuU/WaFPCZaRADI/AAAAAAAAT8o/n0_eFwzXbMIvQVvvN1bQyrzIvhSWed0PACLcBGAs/s1600/b.png" group-title="FULL TR 24/7 SPECIAL",FM: BURSADA BUGUN RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101102
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-xYWSJ-O_WhE/WaF5Bm7ztSI/AAAAAAAAT_g/nln19UuWJywHnmGdEQ89sI3biisU6HvZgCLcBGAs/s1600/d.png" group-title="FULL TR 24/7 SPECIAL",FM: DAMAR FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101105
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-rgc_WXzsNPg/WZvqhGvPQjI/AAAAAAAATts/k47sk1kviyICjNfmAOxw-csvvnZ_niqfgCLcBGAs/s1600/01.png" group-title="FULL TR 24/7 SPECIAL",FM: DIYANET KURAN RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101120
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-0qyRySZWuWc/WZvqAylXH0I/AAAAAAAATtk/l6u9o5Ybu_4Yh7zxUadPjbC3CDVzp3nFACLcBGAs/s1600/02.png" group-title="FULL TR 24/7 SPECIAL",FM: DIYANET RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101121
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-gBQyWWVPTKs/Wj0KXES0ZxI/AAAAAAAAVo4/hDn5Vo0Si0cjUAmEUaIFUW9lXgNdityxwCLcBGAs/s1600/09.png" group-title="FULL TR 24/7 SPECIAL",FM: DOST FM Hatay
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101122
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-mM75U7S2s0w/WaO2foN2qTI/AAAAAAAAUIA/SXrgKMQpDBwahViHrkgF_Edop_TqweSSACLcBGAs/s1600/e.png" group-title="FULL TR 24/7 SPECIAL",FM: EKIN RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101124
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-Yovc1dbCO64/WaO3DwdPeqI/AAAAAAAAUII/LGLw5izmSy49C8k7puiOndZ3DXZZTYphwCLcBGAs/s1600/2000.png" group-title="FULL TR 24/7 SPECIAL",FM: ELAZIG RADYO 2000
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101125
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-Cju1Rg4ea-o/WaQMyIMuc7I/AAAAAAAAUMc/muzAW8RGi4cpa-lHu5NySFHOXsR4-1qcgCLcBGAs/s1600/mr.png" group-title="FULL TR 24/7 SPECIAL",FM: EYNESIL MERCAN FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101129
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-s_BSJ1TyNYE/WaQoFu6VXPI/AAAAAAAAUPM/sl5xj8Ng9AYz4k7NvrPYg3eXwjFCa_5rQCLcBGAs/s1600/g.png" group-title="FULL TR 24/7 SPECIAL",FM: GENC RADYO Konya
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101142
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-Yomw3jXA0Jc/WbFUSQJMyWI/AAAAAAAAVRs/8k51ctXpmvkbIiYGzqQRJ0y1XvN0oUDRwCLcBGAs/s1600/h.png" group-title="FULL TR 24/7 SPECIAL",FM: HAYAL FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101146
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-E2AXx1nj0n4/WaO6J1ebliI/AAAAAAAAUIw/T47rfbQ1rC4pgJOqqHhdZDBKP5Bj2904wCLcBGAs/s1600/08.png" group-title="FULL TR 24/7 SPECIAL",FM: JOYTURK FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101149
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-gDZv9yyb16c/WaO5K2TVyyI/AAAAAAAAUIg/CHF26ijZOZ4DfmSbQ5x2O3uvo6gwdmC4gCLcBGAs/s1600/04.png" group-title="FULL TR 24/7 SPECIAL",FM: JOY JAZZ
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101150
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-CnNEn812wfw/WaO6ZKs4itI/AAAAAAAAUI0/kd2nJkyWAbIKpfKjw5543KWxKYOd7b2oACLcBGAs/s1600/09.png" group-title="FULL TR 24/7 SPECIAL",FM: JOY TURK ROCK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101152
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-7dQFI-5w2aU/WaVa7FoKObI/AAAAAAAAURA/xUJydaNa1Wgj7W40N6ii7-i2O_2Lg7ZvACLcBGAs/s1600/h.png" group-title="FULL TR 24/7 SPECIAL",FM: HAMSI FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101153
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-9fa-On78B4E/WafitaNkIdI/AAAAAAAAUfY/lZ6ShIKRzRMMxbKo63vYOTjA7g-pSiObQCLcBGAs/s1600/ms.png" group-title="FULL TR 24/7 SPECIAL",FM: MARAS SULTAN RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101155
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-gZg6fkj7pwc/WZvpl-EAmhI/AAAAAAAATtg/6Qd5PjORS4cHbY1CsaovvgNNt2H0bK29wCLcBGAs/s1600/05.png" group-title="FULL TR 24/7 SPECIAL",FM: METEOROLOJININ SESI RADYOSU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101158
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-MNXZUvAVkb8/YAKDzwX42WI/AAAAAAAAY_Q/ukIj_mXCkSc0QJo70qNXTSwNO2bvV5XcACLcBGAsYHQ/s0/muglafm.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO MUGLA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101161
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-kbHe_WlPR8w/WappZiQKbDI/AAAAAAAAUlg/LGW6PxFHE_AGZUiCCiZPxKtVZfahE0FZACLcBGAs/s1600/m.png" group-title="FULL TR 24/7 SPECIAL",FM: MUZEYYEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101163
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-yOI20GCAV9w/Wap29gBWcRI/AAAAAAAAUnE/F-GjGILUoAgJcHjDXlN6YtYvtnb0nsdvgCLcBGAs/s1600/ntv.png" group-title="FULL TR 24/7 SPECIAL",FM: NTV RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101166
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-Ppujo_MDZ-U/Wap5FNyeEAI/AAAAAAAAUnU/APIiVSXrub8c2D0DNOCOZmFQ8d9MN1nYgCLcBGAs/s1600/n.png" group-title="FULL TR 24/7 SPECIAL",FM: NTV SPOR RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101167
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-PohD5W84lJ8/WaqJbPdmXTI/AAAAAAAAUoA/BJznNHbztlU6Qda5nsqOP1OBRErWMiztgCLcBGAs/s1600/04.png" group-title="FULL TR 24/7 SPECIAL",FM: NUMBER 1 FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101168
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-LkpEbG-70Tk/WaqHC_tRcqI/AAAAAAAAUns/if_esIu5tjoegCmSwhIQHUkUqPY3BxvJACLcBGAs/s1600/02.png" group-title="FULL TR 24/7 SPECIAL",FM: NUMBER 1 DEEP HOUSE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101170
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/--OuqnfJ5OkQ/WaqMKnHQqxI/AAAAAAAAUog/uzqVaDg7VEAoVIgx1Bvwxi4ytTTdSvZzACLcBGAs/s1600/09.png" group-title="FULL TR 24/7 SPECIAL",FM: NUMBER 1 SLOW
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101175
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-ZGDz8ABniZs/WaqY1rNI6ZI/AAAAAAAAUqU/ugoDHXv3eiI3O7tA9rSasRH0n7olK3h7gCLcBGAs/s1600/15.png" group-title="FULL TR 24/7 SPECIAL",FM: NUMBER 1 TURK FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101176
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-LdS4t52toF4/WaqMncTti5I/AAAAAAAAUok/DBCdOtgZZMcjZwe-_yvYJLYj7PvIxod1wCLcBGAs/s1600/10.png" group-title="FULL TR 24/7 SPECIAL",FM: NUMBER 1 TURK 90'LAR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101177
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-YG1zrBI_rCU/WaqaSl2PaDI/AAAAAAAAUqk/Mdf8nk7X4eQH7-p9C_Pff2gOqPuJhP2TQCLcBGAs/s1600/19.png" group-title="FULL TR 24/7 SPECIAL",FM: NUMBER 1 WORLD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101182
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-s7RyZjikwHA/WarbqWest8I/AAAAAAAAUtY/NZ5IGE6KnzcaqJYG9YhfiE49I3N5Iy__gCLcBGAs/s1600/05.png" group-title="FULL TR 24/7 SPECIAL",FM: PAL FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101191
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-s7RyZjikwHA/WarbqWest8I/AAAAAAAAUtY/NZ5IGE6KnzcaqJYG9YhfiE49I3N5Iy__gCLcBGAs/s1600/05.png" group-title="FULL TR 24/7 SPECIAL",FM: PAL FM SeCenek 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101192
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-iWfxrWK6jYk/WarbAj29scI/AAAAAAAAUtQ/m_04v4XGRtYJ7f6ATo6b76HGhLQOOUFmACLcBGAs/s1600/04.png" group-title="FULL TR 24/7 SPECIAL",FM: PAL DOGA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101195
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-LiUVLoqDHqo/WarcmkaYxSI/AAAAAAAAUtk/dFki0aTimQkvWfiC_C5LFMKjtflrLWjxwCLcBGAs/s1600/07.png" group-title="FULL TR 24/7 SPECIAL",FM: PAL NOSTALJI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101196
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-LiUVLoqDHqo/WarcmkaYxSI/AAAAAAAAUtk/dFki0aTimQkvWfiC_C5LFMKjtflrLWjxwCLcBGAs/s1600/07.png" group-title="FULL TR 24/7 SPECIAL",FM: PAL NOSTALJI SeCenek 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101197
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-glvwCO57WqM/Warfp_muU2I/AAAAAAAAUuQ/HsjXtWU-ruAiXc7kmJ93kL5FIfuAAVXRwCLcBGAs/s1600/13.png" group-title="FULL TR 24/7 SPECIAL",FM: PAL STATION
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101201
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-mBziqBjpc34/Wari-TFlC1I/AAAAAAAAUuk/I4h1q6Ra-7Q_LmNwCW9nxrQULS4OFMr8ACLcBGAs/s1600/p.png" group-title="FULL TR 24/7 SPECIAL",FM: PARK FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101202
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-4q7LMsuvXa8/Warj79El16I/AAAAAAAAUuw/7XnNNotVwv0_J552i0IDl6Xj04ltEwS_QCLcBGAs/s1600/p.png" group-title="FULL TR 24/7 SPECIAL",FM: PLAY FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101204
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-xaBeqb47aGs/WauLMYbCNGI/AAAAAAAAUvI/9XJ8hjwY2joG8g32OyMlxMvjjWqi7RlqACLcBGAs/s1600/p.png" group-title="FULL TR 24/7 SPECIAL",FM: POP HOME
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101207
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-SgRSZcDCZvY/Wavu1ii2opI/AAAAAAAAUyI/3zyVrzb2yckmAnqGzT2mE3FUzhSHp0ocACLcBGAs/s1600/03.png" group-title="FULL TR 24/7 SPECIAL",FM: POWER DANCE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101210
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-6xobsOBUtGU/Wl7q6eyBxRI/AAAAAAAAVzM/FUJZqnHtGnsXa1fba6ZBX5hIUqYto1ZvACLcBGAs/s1600/01.png" group-title="FULL TR 24/7 SPECIAL",FM: POWER DEEP
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101211
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-5FCjSMqh3Cc/WavwtC4j4EI/AAAAAAAAUyk/Y1WywHOiRkE_iivQZAjBxpEXCH-zbpYIQCLcBGAs/s1600/07.png" group-title="FULL TR 24/7 SPECIAL",FM: POWER GREECE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101213
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-3hiObzKo35g/WavxkHPa6LI/AAAAAAAAUys/gY1G76zJ79w8Npol9CFdGXzTR4L1kwpkwCLcBGAs/s1600/09.png" group-title="FULL TR 24/7 SPECIAL",FM: POWER LOVE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101214
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-kxAnceij9Nw/Wavy4jjtQhI/AAAAAAAAUy8/L-U4_MJe2kg8YC0EkVNghgVOzlrJ8MuEgCLcBGAs/s1600/12.png" group-title="FULL TR 24/7 SPECIAL",FM: POWER POP
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101216
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-AnpBi4wc32A/Wav0ajueHDI/AAAAAAAAUzM/2-Qzpj1MXTEeRIVfpKPBuCFu8CF-oVpEACLcBGAs/s1600/16.png" group-title="FULL TR 24/7 SPECIAL",FM: POWER SMOOTH JAZZ
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101217
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-1dzFx-gVoGc/Wav00elb_pI/AAAAAAAAUzQ/cWbQ4a0CyWUsA1DnTHe5jDlO3SBwHPwJQCLcBGAs/s1600/17.png" group-title="FULL TR 24/7 SPECIAL",FM: POWER XL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101218
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-zrsttlpEdLc/Wav1NweAYPI/AAAAAAAAUzU/fHTTLKdEV9srbDia47TYyMU3JHEdIPO1QCLcBGAs/s1600/18.png" group-title="FULL TR 24/7 SPECIAL",FM: POWERTURK AKUSTIK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101220
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-FjvRGqhzeW8/Wav438vdO6I/AAAAAAAAUz8/azkf4H2fUXEWqAPOi_WWF6Z3hsMqSOqdwCLcBGAs/s1600/27.png" group-title="FULL TR 24/7 SPECIAL",FM: POWERTURK TAPTAZE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101222
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-9gPyS5cV5Pk/WaV2g1NsinI/AAAAAAAAUTY/mCh3Aq_qBwc69Um6wn3lcsmQJ-CV_cTrwCLcBGAs/s1600/k.png" group-title="FULL TR 24/7 SPECIAL",FM: KARADENIZ FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101223
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-4fPR7RJ8hkc/WaV-EXJFCXI/AAAAAAAAUUE/RtiIyA-9gEI65i-HW5zBxpd49E2ZG61pwCLcBGAs/s1600/k.png" group-title="FULL TR 24/7 SPECIAL",FM: KAY RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101225
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-lM8t1FXFMLM/Waa1U6KvRfI/AAAAAAAAUao/dwhcSAuRHHAX9I7E9RCLjTqRku_xCgckwCLcBGAs/s1600/k.png" group-title="FULL TR 24/7 SPECIAL",FM: KRAL FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101234
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-lM8t1FXFMLM/Waa1U6KvRfI/AAAAAAAAUao/dwhcSAuRHHAX9I7E9RCLjTqRku_xCgckwCLcBGAs/s1600/k.png" group-title="FULL TR 24/7 SPECIAL",FM: KRAL FM SeCenek 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101235
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-ptq-5gcbpY8/Waa0NkrBy3I/AAAAAAAAUac/yXxeTjqhZIMn4qmoHtluhwFeSLeyOxtDwCLcBGAs/s1600/p.png" group-title="FULL TR 24/7 SPECIAL",FM: KRAL POP RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101236
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-ck-S4CEbd3c/WafYEx4YUhI/AAAAAAAAUd8/-xRRRWrSZBk1SF0P509pIIUuRibzNANbACLcBGAs/s1600/l.png" group-title="FULL TR 24/7 SPECIAL",FM: LOKUM FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101239
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-kbYnwQrtkvw/Wav6oVqOB3I/AAAAAAAAU0M/Dikm7e-_nr098LikF82o-SDr7UVYOHOfgCLcBGAs/s1600/rl.png" group-title="FULL TR 24/7 SPECIAL",FM: RADIO LIFE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101247
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-zNUe5L5mAi0/WawEEd6POCI/AAAAAAAAU1U/6lxA_YYSe0Iguk77HqpaTa6EzRffI3fXgCLcBGAs/s1600/7.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO 7
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101249
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-MkzhwVKqitk/WawEt0psdLI/AAAAAAAAU1c/43vbZp0uq5oCr67iZ7r8OrRwV2LAFSUhACLcBGAs/s1600/81.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO 81
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101253
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-ftBXExs_vYk/Wav-0zWEPDI/AAAAAAAAU0s/QRAhtgt_fmEqnkQCkwRqivKUPxh2o6_MgCLcBGAs/s1600/2000.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO 2000
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101254
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-mzIFe-14KBc/WtybgiA62lI/AAAAAAAAWEk/Bo5fOpUD9YISY9rpqyPGZ6AVeGiKviUAgCLcBGAs/s1600/2.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO 2000 FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101255
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-uyTRebjgnPo/WawXWoiM-LI/AAAAAAAAU3U/2GLxsZRhGnEXL_qsZs_2QcjzqeT90noOQCLcBGAs/s1600/b.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO BANKO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101264
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-hH65iY7cVIE/Wa0huWzyFwI/AAAAAAAAU5c/hRIylKHIiToQs-8ST4HXBtTEy0ZvsYdQgCLcBGAs/s1600/d.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO DAMAR FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101273
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-PWbaCBhR7jI/Wa0pEwv5osI/AAAAAAAAU6g/JLoz36eWVEQYVvEzySuueszeElt_eDkIwCLcBGAs/s1600/e.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO EKSEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101275
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-OEjWzcFzj6c/Wa0qOS7WvyI/AAAAAAAAU6s/b9XpoE28gKITAWiP2hMTeXcJR19kyYedACLcBGAs/s1600/e.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO ENERJI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101276
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-4Wj4WOkQhYc/Wa0rXS6iwpI/AAAAAAAAU64/774NauklcFU4KOiU4a9XJY5JzqQt6RjSgCLcBGAs/s1600/fb.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO FENERBAHCE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101277
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-RK1nF8JnJW0/Wa0-I2HPkmI/AAAAAAAAU8s/4ALoejE60Q0ItR3OsrGosU5QHt3bah5YQCLcBGAs/s1600/i.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO IZMIR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101280
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-BNJ8LvBpH-M/Wa1wINKyftI/AAAAAAAAU-k/fLbrpEJbeNA-YeDvjqiGCOEmP6kUIvC3gCLcBGAs/s1600/m.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO MEGA Sakarya
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101287
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-YkqyCRNRtQU/Wa1w2INvULI/AAAAAAAAU-s/0IERKXmi8isDrDJ0S3O0YyWiiNyfmkAAQCLcBGAs/s1600/m.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO MEGASITE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101288
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-MNXZUvAVkb8/YAKDzwX42WI/AAAAAAAAY_Q/ukIj_mXCkSc0QJo70qNXTSwNO2bvV5XcACLcBGAsYHQ/s0/muglafm.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO MUGLA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101290
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-wqUno7FcoZU/Xyj91AQ9z8I/AAAAAAAAYqg/QwRupG8or6YrJ3OSvLtezBz54mbfckPmACLcBGAsYHQ/s1600/rm.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO MUSIKI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101291
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO ODTU CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101292
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO ODTU ROCK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101295
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-cr4BVToSt3M/Wa5-_wTf7-I/AAAAAAAAVAA/W91fDXCC7_Y1ulEFZ_TdvxbHuVXAUWEEQCLcBGAs/s1600/r.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO RENK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101300
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-PzKKrnC_AAA/Wa6AkdItzjI/AAAAAAAAVAU/V9O83ih8590L5ypD1SYC0OPrxoyYikSvgCLcBGAs/s1600/tsm.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO SANAT MUZIGI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101302
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-VP7Uke20eOc/Wa6F69JOnoI/AAAAAAAAVA4/mZzrHxhFofEemkyrUB-PcfVFrundBoowACLcBGAs/s1600/rs.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO SES EskiSehir
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101304
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-Ji4gErDsiA0/Wa6IxAstVDI/AAAAAAAAVBY/tXoVQpv7hD0cVV3e06f1Os5_NUpuHln7gCLcBGAs/s1600/s.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO SEYMEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101305
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-rygjN8sYr44/Wa6L88bvFYI/AAAAAAAAVB8/MsgMKUUGQmchIhfIX52AX5HAPmaLm8c1ACLcBGAs/s1600/s.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO SPOR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101307
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-pV_kSShlfY0/Wa6OW_ATLBI/AAAAAAAAVCI/0U7vVQmailUzrYH5av77NRo6zBOpoINEgCLcBGAs/s1600/t.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO TRAFIK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101311
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-s6G793kznKc/Wa6Skz8DjGI/AAAAAAAAVCo/oUmJQjXw0fMHCLdcL_6CDUf-xw9KJmy_QCLcBGAs/s1600/01.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO VATAN KIBRIS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101313
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-yYl5oETa4p0/Wa6TCodnZpI/AAAAAAAAVCs/Hqsz5x_pY9sMAGFTkgWRFzKvGzkPWEdlACLcBGAs/s1600/02.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO VATAN NIHAVENT
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101314
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-s_tAfZGKXPg/Wa6TfejBTtI/AAAAAAAAVCw/gkinEPcC7KAi37vONIf04PhTutAE2EdHQCLcBGAs/s1600/03.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO VATAN TURKU
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101315
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-T1bR-4TrGQ8/Wa6UbnQV7XI/AAAAAAAAVC8/Ik0lf_17Zwc-PKivSqFFvyot16qrBwcngCLcBGAs/s1600/v.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO VIVA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101316
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-mWVC6ikbolk/Wa6YecF5PHI/AAAAAAAAVDU/1SdYSZJlvsI3pzVkeCyS8iFOHOsBhp_jgCLcBGAs/s1600/v.png" group-title="FULL TR 24/7 SPECIAL",FM: RADYO VOYAGE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101317
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-po4NxtkUDT8/Wa6dE4d9vaI/AAAAAAAAVD0/cV7hcDf57kYKzvpWXbzruJJYHukD3jXcACLcBGAs/s1600/h.png" group-title="FULL TR 24/7 SPECIAL",FM: RELAX HOME
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101321
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-lPMLUMTUEoE/WaO9sOz-CFI/AAAAAAAAUJY/FZ4kUbEaGIgf7Hewpezw-akxshO8sGLHwCLcBGAs/s1600/16.png" group-title="FULL TR 24/7 SPECIAL",FM: RETRO TURK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101322
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-M8O6CmmQv_I/Wa6krbXWvAI/AAAAAAAAVFA/UZIdoxCgscQ8ZSox56lqpYvlFxjqayS4ACLcBGAs/s1600/s.png" group-title="FULL TR 24/7 SPECIAL",FM: SEMERKAND RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101325
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-LnYxKXgcQFY/Wa6mEadm0QI/AAAAAAAAVFQ/QtFrAx5ErEc0nbd6THdBL0Bq5spai_e3gCLcBGAs/s1600/s.png" group-title="FULL TR 24/7 SPECIAL",FM: SHOW RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101327
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-luIJxok76vI/Wa6oIrOmFnI/AAAAAAAAVFo/XqhtFlhKmXwf9VMxXm9WXUmQTIX1NDTnQCLcBGAs/s1600/s.png" group-title="FULL TR 24/7 SPECIAL",FM: SLOW HOME
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101329
+#EXTINF:-1 tvg-id="" tvg-logo="http://1.bp.blogspot.com/-jPoaXwc1edA/WaO-L2ZzWLI/AAAAAAAAUJg/R9MUHCn7vqwWG4BOnWkrI_LkEgzkWZmRACLcBGAs/s1600/18.png" group-title="FULL TR 24/7 SPECIAL",FM: SUPER FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101336
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-MX2N0L5_m2Q/WaO98g4BLFI/AAAAAAAAUJc/qD8Lkw4j5OwLC5VkH4p2-YJRMdm7-SSxwCLcBGAs/s1600/17.png" group-title="FULL TR 24/7 SPECIAL",FM: SUPER 2 FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101337
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-HFrePMsl3js/Wa60LD6alLI/AAAAAAAAVHY/wQuOtcekFrcKpI0Lxjo-yRZoDNgPJUPCgCLcBGAs/s1600/t.png" group-title="FULL TR 24/7 SPECIAL",FM: TARSUS FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101338
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-LWC6UNERrdk/Wa63Km3O07I/AAAAAAAAVHs/J97siSmbH_M7SA5H1GbudIOiwcGonML4ACLcBGAs/s1600/t.png" group-title="FULL TR 24/7 SPECIAL",FM: TATVAN RADYO 13
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101339
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-EpUusao8ufs/Wa_awj5DEdI/AAAAAAAAVIQ/zNVgFJJLE9AVRYICNxBhZDqWxYJRs_y2gCLcBGAs/s1600/t.png" group-title="FULL TR 24/7 SPECIAL",FM: TEZENE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101341
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-dsAVpXGvfus/XILIWfN_Y4I/AAAAAAAAXLM/k7IznEXZ83YaoNRmJdPiNwUbNnsIYK4PACLcBGAs/s1600/tfm.png" group-title="FULL TR 24/7 SPECIAL",FM: TOURISM FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101342
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-owBWSzkI1OA/Wa_zfL65-aI/AAAAAAAAVLI/cErtXyf2z1ImtKepyCf5dZp6n8dIl65qACLcBGAs/s1600/t.png" group-title="FULL TR 24/7 SPECIAL",FM: TURKU RADYO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101355
+#EXTINF:-1 tvg-id="" tvg-logo="http://2.bp.blogspot.com/-3IZnZ-l4Grc/Wa_5n7SefmI/AAAAAAAAVLk/UE2yijJ_uYA2eVsnXznx_LClXwln1k6ogCLcBGAs/s1600/t.png" group-title="FULL TR 24/7 SPECIAL",FM: TURKULERLE TURKIYE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101356
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-Mf4AT_Lz8zw/Wa_6REhL2nI/AAAAAAAAVLs/GpTC9if1bS4B0MAJ13xC0FoO0aCU1YLxgCLcBGAs/s1600/u.png" group-title="FULL TR 24/7 SPECIAL",FM: ULKU FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101357
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-jqS6bcsS6GY/WaO-g3tM18I/AAAAAAAAUJk/8dnhuRiHJ8YASaP3xypG22wE_hY2BUc_gCLcBGAs/s1600/19.png" group-title="FULL TR 24/7 SPECIAL",FM: VIRGIN RADIO TURKIYE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101358
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-0bsEPyfzKYg/WbABx4BFaHI/AAAAAAAAVMw/QvIZU8_3SuQ-yliBFbP-sn0Qcqel2PCagCLcBGAs/s1600/w.png" group-title="FULL TR 24/7 SPECIAL",FM: WORLD HITS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101359
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-GrxybaxqCjY/WbAPg-1A73I/AAAAAAAAVOo/nhMD9Gun8mo1w4hN8K1t6V_FBY6vEBSJgCLcBGAs/s1600/13.png" group-title="FULL TR 24/7 SPECIAL",FM: YUNUS FM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101366
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QAUZ4xE.png" group-title="FULL TR 24/7 SPECIAL",★✦★ LIVE CAMS ★✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96686
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sJdl48f.png" group-title="FULL TR 24/7 SPECIAL",LIVE CAM DEVREK MEYDANI CANLI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/70762
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sJdl48f.png" group-title="FULL TR 24/7 SPECIAL",DEVREK KOCAKAPI 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/87443
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sJdl48f.png" group-title="FULL TR 24/7 SPECIAL",DEVREK KOCAKAPI 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/87444
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL DE 24/7 SPECIAL",★✦★ SPECIAL BOX FILME 24/7 ★✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96446
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 DIE WILDEN KERLE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103041
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JURASSIC PARK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103042
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 STAR TREK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103044
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 FINAL DESTINATION
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103045
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MATRIX
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103046
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ASTERIX
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103047
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SHREK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103050
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 THE PURGE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103051
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JACKIE CHAN 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103054
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JACK NICHOLSON 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103056
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 BRAD PITT 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103059
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 RYAN GOSLING 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103060
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 THRILLER 2023 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103061
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MEN IN BLACK 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103065
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JERRY LEWIS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103066
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 CHANNING TATUM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103067
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JET LEE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103068
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JASON STATHAM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103071
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 BRUCE WILLIS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103073
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 Paranormal Movies
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103074
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KINOHIGHLIGHTS -1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103075
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ACTION
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103077
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ARNOLD SCHWARZENEGGER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102689
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SCARY MOVIE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102695
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 FILME 2023 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102686
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NETFLIX ACTION
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102696
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NETFLIX LOVE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102697
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NETFLIX SCI-FI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102698
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NETFLIX THRILLER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102699
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 CHRISTIAN BALE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99993
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KEVIN SPACEY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99994
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 STEVEN SEAGAL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99995
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 RUSSEL CROWE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99996
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HUGH JACKMAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99997
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 LOVE STORY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99998
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 AFRIKA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99999
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 PAUL NEWMAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100000
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 FLUCH DER KARIBIK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100003
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JACKIE CHAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100004
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 STAR WARS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100005
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 COMEDY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/100006
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 PARANORMAL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98586
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SAMUEL L JACKSON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98587
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 WILL SMITH 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98588
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 CHANING TATUM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98589
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 EDDIE MURPHY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98590
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KEVIN HART
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98591
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ROBERT DE NIRO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98592
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HARRISON FORD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98593
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NETFLIX 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97383
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NETFLIX 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97384
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 X-MEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99911
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ICE AGE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99912
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 GEORGE CLOONEY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99913
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KEANU REEVES
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99914
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ALIEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99915
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NATURKATASTROPHEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99916
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JIM CARREY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99917
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 EMMA WATSON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99918
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MADE IN GERMANY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99919
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 CLINT EASTWOOD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99920
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SYLVESTER STALLONE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99921
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JACK NICHOLSON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99922
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TOP 10 2021
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99923
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TOP 10 2022
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99924
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ROBIN WILLIAMS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99925
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MATT DAMON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99926
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MILA KUNIS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99927
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SEEFAHRT
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/99928
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 BUD SPENCER 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97385
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 BUD SPENCER 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97386
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ACTION 1 [NEW]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97387
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ACTION 2 [NEW]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97388
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ACTION 3 [NEW]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97389
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HORROR [NEW]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97390
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 DRAMA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/97391
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDuv952.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 4K UHD 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96673
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLD7VYj.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TRILOGY 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96865
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ibTeRGj.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TRILOGY 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96866
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gioZ54i.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TRILOGY 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96867
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qPFPhQA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KLASSIKER 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96868
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/74ApYoi.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KLASSIKER 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96869
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KLASSIKER 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96870
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j4tn5JB.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KINO HIGHLIGHTS 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96450
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KINO HIGHLIGHTS 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96451
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M9mw2mI.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KINO HIGHLIGHTS 3
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96452
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Miyr8SB.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KINO HIGHLIGHTS 4
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96453
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c3dUHnY.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KINO HIGHLIGHTS 5
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96454
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6vbuIC.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 FILME 2022
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96589
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SCI-FI
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96685
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 WRESTLE MANIA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96609
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MARVEL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96459
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R7zecbI.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HARRY POTTER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96664
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AyCOoeo.png" group-title="FULL DE 24/7 SPECIAL",FILM 7/24 HARRY POTTER [ENG]
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96460
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dofv60S.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 WILL SMITH
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96647
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 DWAYNE JOHNSON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96466
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 DENZEL WASHINGTON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98600
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MORGAN FREEMAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98601
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TOM HANKS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98602
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 DISNEY MOVIES
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98603
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 AL PACINO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98604
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ANIME
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98605
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 LEONARDO DI CAPRIO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98606
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HIP-HOP
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98607
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 NICHOLAS CAGE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98608
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KAMPF
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98609
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KRIEG
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98612
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HERR DER RINGE/DER HOBBIT
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98613
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ADAM SANDLER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98614
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 IP MAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98615
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 BOLLYWOOD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98616
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 JESSICA ALBA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98621
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 WAHRE BEGEBENHEITEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98622
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TOM HARDY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98623
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 TANZ
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98624
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SKATER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98625
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HORROR 2
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98626
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 ELYAS M BAREK
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98627
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MATTHIAS SCHWEIGHÖFER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98628
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 Steven Spielberg
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98629
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SPIDER-MAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98630
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 WESTERN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98631
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HOOLIGAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98632
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 HALLOWEEN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103689
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 BATMAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103930
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SUPERMAN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103931
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 FAST & FURIOUS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103934
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 WILL FERRELL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103939
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 MARK WAHLBERG
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103940
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 STIRB LANGSAM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103941
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 DC MOVIES
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103942
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 KOREA FILME
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103943
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SPORT FILME
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103944
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 SHIA LABEOUF
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103945
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 GODZILLA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103932
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 LIAM NEESON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98633
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 RYAN REYNOLDS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/98634
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",FILM 24/7 STAND UP COMEDY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103671
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/roUKnLX.png" group-title="FULL DE 24/7 SPECIAL",★✦★ SPECIAL BOX SERIEN 24/7 ★✦★
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96469
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 HAUS DES GELDES 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103038
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 GUMMIBÄRENBANDE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103040
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 TOP BOY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103043
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 DIE SCHATZSUCHER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103048
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 GOTHAM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103049
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 XENA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103052
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 MODERN FAMILY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103053
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 ON MY BLOCK 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103057
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 KINGDOM 5.1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103058
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 SPONGEBOB SCHWAMMKOPF
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103062
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 TOM UND JERRY
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103063
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 COLUMBO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103064
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 BLINDSPOT
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103070
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 DAS A TEAM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103072
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 BREAKING BAD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103076
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 VIKINGS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101465
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 TRUE BLOOD
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101466
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 WER EINMAL LÜGT
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101467
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 MR.MAYOR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101468
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 DOMINA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101469
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 THE BLACKLIST
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101470
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 THE FLASH
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101471
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 VERLIEBT IN BERLIN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101472
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 SUITS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101473
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 PRINZ VON BEL AIR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101474
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 HAUSMEISTER KRAUSE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101475
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 BANSHEE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101476
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 IMMER WIEDER JIM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101477
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 HÖR MAL WER DA HÄMMERT
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101478
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 STROMBERG
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101479
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 THE ROOKIE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101480
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 BATTLESTAR GALACTICA
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101481
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 ALF
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101482
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 THE LINCOLN LAWYER
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101483
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 BRIDGERTON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101484
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 2 BROKE GIRLS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101485
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 SENSE 8
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101486
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 EL CHAPO
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101487
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 FORMEL 1
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101488
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 BALLERS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101489
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 DEADLY ISLANDS
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101490
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 SNOWFALL
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101491
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 BLACK MIRROR
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101492
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 MANIFEST
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101493
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 SOUTHLAND
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101494
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 FROM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101495
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJiXRw5.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 YELLOWSTONE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101496
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 KOMMISSAR REX
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102702
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 MIAMI VICE
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102687
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 FROM DUSK TILL DOWN
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102688
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rdPPcnG/HpIpzzA.png" group-title="FULL DE 24/7 SPECIAL",SERIE 24/7 PADDINGTON
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102690
