@@ -1,0 +1,12 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Reger_Kamake_01" tvg-logo="https://raw.githubusercontent.com/regerwesam-maker/RegerKamake/main/logo.png" group-title="REGER TV",Reger_Kamake_01
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reger_Kamake_02" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="REGER TV",Reger_Kamake_02
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reger_Kamake_03" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="REGER TV",Reger_Kamake_03
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reger_Kamake_04" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="REGER TV",Reger_Kamake_04
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reger_Kamake_05" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="REGER TV",Reger_Kamake_05
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/5.m3u8
