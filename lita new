@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_01" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_01
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_02" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_02
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_03" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_03
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_04" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_04
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_05" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_05
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_06" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_06
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_07" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_07
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_08" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_08
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_09" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_09
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_KALAR_HD_10" tvg-logo="https://raw.githubusercontent.com/mhammadhusen-del/KALAR-TV-HD-017/refs/heads/main/Kalar-TV-HD.png" group-title="KALAR TV",TV_KALAR_HD_10
+http://stream.mhammadhusen-del.com:8080/live/mhammadhusen/mhammadhusen/10.m3u8
