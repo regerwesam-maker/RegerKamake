@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://channel8.com/logo.png" group-title="REGER TV",CHANNEL 8 HD
-https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.rudaw.net/Content/images/rudaw-logo.png" group-title="REGER TV",RUDAW TV HD
-https://shls-rudaw-prod.akamaized.net/out/v1/rudaw-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://kurdistan24.net/assets/images/k24-logo.png" group-title="REGER TV",KURDISTAN 24 HD
-https://kurdistan24.cloud.shofatv.net/live/kurdistan24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://waartv.tv/wp-content/uploads/2021/01/waar-logo.png" group-title="REGER TV",WAAR TV HD
-https://waartv.cloud.shofatv.net/live/waar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.arknews.net/logos/ark.png" group-title="REGER TV",ARK TV HD
-https://ark.shofatv.cloud/live/ark/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://regerwesam-maker.github.io/duhok_logo.png" group-title="REGER TV",DUHOK TV HD
-https://live.duhoktv.net/hls/duhok/main.m3u8
