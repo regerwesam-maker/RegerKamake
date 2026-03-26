@@ -9,3 +9,5 @@ https://kurdistan24.cloud.shofatv.net/live/kurdistan24/playlist.m3u8
 https://waartv.cloud.shofatv.net/live/waar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arknews.net/logos/ark.png" group-title="REGER TV",ARK TV HD
 https://ark.shofatv.cloud/live/ark/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://regerwesam-maker.github.io/duhok_logo.png" group-title="REGER TV",DUHOK TV HD
+https://live.duhoktv.net/hls/duhok/main.m3u8
