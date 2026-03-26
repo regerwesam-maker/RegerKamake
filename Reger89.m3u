@@ -1,27 +1,3 @@
-#EXTM3U
-#EXTINF:-1,beIN SPORTS NEWS
-https://beinsports-news.p-stream.net/playlist.m3u8
-
-#EXTINF:-1,AL KASS ONE HD
-https://alkass.p-stream.net/playlist.m3u8
-
-#EXTINF:-1,AD SPORTS 1
-https://adsports1.p-stream.net/playlist.m3u8
-
-#EXTINF:-1,AL JAZEERA ARABIC
-https://live-hls-web-aje.akamaized.net/m3u8/ar/aljazeera.m3u8
-
-#EXTINF:-1,MBC 1 HD
-http://185.105.101.90:80/mhammad/husen/1500
-
-#EXTINF:-1,MBC ACTION
-http://185.105.101.90:80/mhammad/husen/1501
-
-#EXTINF:-1,ROTANA CINEMA
-http://185.105.101.90:80/mhammad/husen/1600
-
-#EXTINF:-1,OSN MOVIES HD
-http://185.105.101.90:80/mhammad/husen/1700
 
 #EXTM3U
 #EXTINF:-1,KALAR TV HD
