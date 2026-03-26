@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.rudaw.net/Content/images/rudaw-logo.png" group-title="REGER TV HD",RUDAW TV HD
-https://live.rudaw.net/hls/rudaw-tv/main.m3u8
-#EXTINF:-1 tvg-logo="https://channel8.com/logo.png" group-title="REGER TV HD",CHANNEL 8 HD
+#EXTINF:-1 tvg-logo="https://channel8.com/logo.png" group-title="REGER TV",CHANNEL 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:-1 tvg-logo="https://waartv.tv/wp-content/uploads/2021/01/waar-logo.png" group-title="REGER TV HD",WAAR TV HD
-https://live.waartv.tv/hls/waar/main.m3u8
-#EXTINF:-1 tvg-logo="https://kurdistan24.net/assets/images/k24-logo.png" group-title="REGER TV HD",KURDISTAN 24 HD
-https://livek24.akamaized.net/hls/live/2036120/k24/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.arknews.net/logos/ark.png" group-title="REGER TV HD",ARK TV HD
+#EXTINF:-1 tvg-logo="https://www.rudaw.net/Content/images/rudaw-logo.png" group-title="REGER TV",RUDAW TV HD
+https://shls-rudaw-prod.akamaized.net/out/v1/rudaw-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://kurdistan24.net/assets/images/k24-logo.png" group-title="REGER TV",KURDISTAN 24 HD
+https://kurdistan24.cloud.shofatv.net/live/kurdistan24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://waartv.tv/wp-content/uploads/2021/01/waar-logo.png" group-title="REGER TV",WAAR TV HD
+https://waartv.cloud.shofatv.net/live/waar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.arknews.net/logos/ark.png" group-title="REGER TV",ARK TV HD
 https://ark.shofatv.cloud/live/ark/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://regerwesam-maker.github.io/logo.png" group-title="REGER TV HD",REGER SPECIAL HD
-http://45.145.164.215:8080/live/demo/demo/1.m3u8
