@@ -317,3 +317,77 @@ http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641616.ts
 http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641615.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2SMjf4B4/Picsart-26-03-19-23-43-29-557.png"group-title="ALWAN-SPORT",Alwan WWE 4K
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports Global UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/43.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN SPORTS NEWS UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/22198.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports News UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/44.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports 1 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114053.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports 1 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/3854.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports 1 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269943.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports 2 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114052.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports 2 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/3853.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png"group-title="beIN SPORTS 4K",beIN Sports 2 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269944.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png""group-title="beIN SPORTS 4K",beIN Sports 3 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114050.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png""group-title="beIN SPORTS 4K",beIN Sports 3 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/3851.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png""group-title="beIN SPORTS 4K",beIN Sports 3 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269945.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png""group-title="beIN SPORTS 4K",beIN Sports 4 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114049.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png""group-title="beIN SPORTS 4K",beIN Sports 4 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/3850.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png"group-title="beIN SPORTS 4K",beIN Sports 4 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269946.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png""group-title="beIN SPORTS 4K",beIN Sports 5 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114048.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png""group-title="beIN SPORTS 4K",beIN Sports 5 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/3849.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png""group-title="beIN SPORTS 4K",beIN Sports 5 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269947.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png""group-title="beIN SPORTS 4K",beIN Sports 6 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114047.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png""group-title="beIN SPORTS 4K",beIN Sports 6 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269948.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png""group-title="beIN SPORTS 4K",beIN Sports 7 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114046.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png""group-title="beIN SPORTS 4K",beIN Sports 7 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/3847.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png"group-title="beIN SPORTS 4K",beIN Sports 7 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269949.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png"group-title="beIN SPORTS 4K",beIN Sports 8 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114045.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png"group-title="beIN SPORTS 4K",beIN Sports 8 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/10361.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png"group-title="beIN SPORTS 4K",beIN Sports 8 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269950.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png"group-title="beIN SPORTS 4K",beIN Sports 9 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114044.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png"group-title="beIN SPORTS 4K",beIN Sports 9 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/10362.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png"group-title="beIN SPORTS 4K",beIN Sports 9 Nexus 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1269951.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png"group-title="beIN SPORTS 4K",beIN Sports XTRA 1 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/117123.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png"group-title="beIN SPORTS 4K",beIN Sports XTRA 2 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/117128.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png"group-title="beIN SPORTS 4K",beIN Sports 3 XTRA UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/114051.ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png"group-title="beIN SPORTS 4K",beIN Sports XTRA 3 UHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/3852.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png"group-title="beIN SPORTS 4K",beIN Sports XTRA 4 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1572904.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png"group-title="beIN SPORTS 4K",beIN Sports XTRA 5 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1572908.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png"group-title="beIN SPORTS 4K",beIN Sports XTRA 6 4K
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1572912.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png"
+group-title="beIN SPORTS 4K",beIN Sports XTRA 7 4K
