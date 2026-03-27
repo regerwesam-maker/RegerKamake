@@ -1,4 +1,4 @@
-.EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",|KRD| Rudaw TV ᴴᴰ ku
 http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/129980.ts
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1537432242.4989/ur,pin_small_front,wide_portrait,750x1000.jpg",|KRD| K24 ᴴᴰ ku
