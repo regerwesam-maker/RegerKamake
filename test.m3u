@@ -15,9 +15,7 @@ https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
 https://shls-nettv-prod.cdn.mangomolo.com/nettv/smil:nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish",NRT HD
 https://shls-nrthd-prod.cdn.mangomolo.com/nrthd/smil:nrthd.smil/playlist.m3u8
-#EXTM3U
 #EXTINF:-1, AVA SPORT HD
 https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
-
 #EXTINF:-1, NRT SPORT HD
 https://shls-nrthd-prod.cdn.mangomolo.com/nrthd/smil:nrthd.smil/playlist.m3u8
