@@ -34,26 +34,21 @@ https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yjXcnfg/Picsart-26-02-19-16-01-12-677.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Show HD
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://reger.live/logos/rudaw.png" group-title="Kurdish",RUDAW HD
+#EXTM3U
+#EXTINF:-1 group-title="KURDISH",RUDAW TV
 https://shls-rudaw-prod.cdn.mangomolo.com/rudawlive/smil:rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://reger.live/logos/k24.png" group-title="Kurdish",KURDISTAN 24
-https://live.kurdistan24.net/kurdistan24/smil:kurdistan24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://reger.live/logos/waar.png" group-title="Kurdish",WAAR TV
+#EXTINF:-1 group-title="KURDISH",WAAR TV
 https://shls-waartv-prod.cdn.mangomolo.com/waartv/smil:waartv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://reger.live/logos/duhok.png" group-title="Kurdish",DUHOK TV
+#EXTINF:-1 group-title="KURDISH",KURDISTAN 24
+https://live.kurdistan24.net/kurdistan24/smil:kurdistan24.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KURDISH",DUHOK TV
 https://stream.duhoktv.net/live/duhoktv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://reger.live/logos/knoze.png" group-title="Kurdish",KURDISTAN TV
-https://live.kurdistantv.net/ktv/smil:ktv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Kurdish",AVA ENTERTAINMENT
+#EXTINF:-1 group-title="KURDISH",AVA ENTERTAINMENT
 https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Kurdish",NET TV
+#EXTINF:-1 group-title="KURDISH",NET TV
 https://shls-nettv-prod.cdn.mangomolo.com/nettv/smil:nettv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Kurdish",K TRK
-https://shls-ktrk-prod.cdn.mangomolo.com/ktrk/smil:ktrk.smil/playlist.m3u8
