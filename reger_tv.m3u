@@ -5,6 +5,8 @@ http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXkwLpT5/Picsart-26-02-19-15-29-34-796.jpg" group-title="KIRDSH CHANAL LOKAL",NRT TVHD
 http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8174
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5NCmPtYw/Picsart-26-02-19-17-51-26-912.jpg" group-title="KIRDSH CHANAL LOKAL",WAAR TVHD
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWVtK94Q/Picsart-26-02-19-15-35-30-013.jpg" group-title="KIRDSH CHANAL LOKAL",Channel8 TV HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/26hpkGbb/Picsart-26-02-19-15-40-03-525.jpg" group-title="KIRDSH CHANAL LOKAL",K24 TV HD
