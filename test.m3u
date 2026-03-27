@@ -1,21 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rudaw.iq" tvg-logo="https://i.imgur.com/9vD3R0v.png" group-title="Kurdish",Rudaw TV
+#EXTINF:-1 group-title="KURDISH",RUDAW HD
 https://shls-rudaw-prod.cdn.mangomolo.com/rudawlive/smil:rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://i.imgur.com/u7FvX8X.png" group-title="Kurdish",Kurdistan 24
-https://live.kurdistan24.net/kurdistan24/smil:kurdistan24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WaarTV.iq" tvg-logo="https://i.imgur.com/5XhO4m3.png" group-title="Kurdish",Waar TV
+#EXTINF:-1 group-title="KURDISH",WAAR TV
 https://shls-waartv-prod.cdn.mangomolo.com/waartv/smil:waartv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DuhokTV.iq" tvg-logo="https://i.imgur.com/vH6ZzZp.png" group-title="Kurdish",Duhok TV
+#EXTINF:-1 group-title="KURDISH",KURDISTAN 24
+https://live.kurdistan24.net/kurdistan24/smil:kurdistan24.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",DUHOK TV
 https://stream.duhoktv.net/live/duhoktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-logo="https://i.imgur.com/7YfW6yD.png" group-title="Kurdish",Kurdistan TV
-https://live.kurdistantv.net/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish",AVA Entertainment
+#EXTINF:-1 group-title="KURDISH",AVA Entertainment
 https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish",NET TV
+#EXTINF:-1 group-title="KURDISH",AVA SPORT HD
+https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",NET TV
 https://shls-nettv-prod.cdn.mangomolo.com/nettv/smil:nettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish",NRT HD
+#EXTINF:-1 group-title="KURDISH",NRT HD
 https://shls-nrthd-prod.cdn.mangomolo.com/nrthd/smil:nrthd.smil/playlist.m3u8
-#EXTINF:-1, AVA SPORT HD
-https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
-#EXTINF:-1, NRT SPORT HD
-https://shls-nrthd-prod.cdn.mangomolo.com/nrthd/smil:nrthd.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",NRT 2
+https://shls-nrt2-prod.cdn.mangomolo.com/nrt2/smil:nrt2.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",KURDISTAN TV
+https://live.kurdistantv.net/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",ZAGROS TV
+https://live.zagrostv.net/zagros/smil:zagros.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",SPEDA TV
+http://185.105.4.102:80/speda/live/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",PAYAM TV
+http://185.105.4.102:80/payam/live/playlist.m3u8
+#EXTINF:-1 group-title="KURDISH",GEM KURD
+http://185.105.4.102:80/gemkurd/live/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",PEPELO TV
+http://185.105.4.102:80/pepulo/live/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",ZAROK TV
+http://185.105.4.102:80/zarok/live/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",AL JAZEERA
+http://185.105.4.102:80/aljazeera/live/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",AL ARABIYA
+http://185.105.4.102:80/alarabiya/live/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",MBC 1
+http://185.105.4.102:80/mbc1/live/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",MBC 2
+http://185.105.4.102:80/mbc2/live/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",MBC ACTION
+http://185.105.4.102:80/mbcaction/live/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS NEWS
+http://185.105.4.102:80/beinsportsnews/live/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",AD SPORTS 1
+http://185.105.4.102:80/adsports1/live/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",AD SPORTS 2
+http://185.105.4.102:80/adsports2/live/playlist.m3u8
