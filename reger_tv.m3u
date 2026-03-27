@@ -34,21 +34,30 @@ https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yjXcnfg/Picsart-26-02-19-16-01-12-677.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Show HD
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 group-title="KURDISH",RUDAW TV
-https://shls-rudaw-prod.cdn.mangomolo.com/rudawlive/smil:rudawlive.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="KURDISH",WAAR TV
-https://shls-waartv-prod.cdn.mangomolo.com/waartv/smil:waartv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="KURDISH",KURDISTAN 24
-https://live.kurdistan24.net/kurdistan24/smil:kurdistan24.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="KURDISH",DUHOK TV
-https://stream.duhoktv.net/live/duhoktv/playlist.m3u8
-
-#EXTINF:-1 group-title="KURDISH",AVA ENTERTAINMENT
-https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="KURDISH",NET TV
-https://shls-nettv-prod.cdn.mangomolo.com/nettv/smil:nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vHPtrCMJ/Picsart-26-02-19-16-28-11-033.jpg" group-title="KURDISH SPORTS",NRT SPORT FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511352
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vHPtrCMJ/Picsart-26-02-19-16-28-11-033.jpg" group-title="KURDISH SPORTS",NRTSPORTS 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511352
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x1WG7YWn/Picsart-26-03-21-00-15-07-671.jpg"group-title="KURDISH SPORTS",AVA SPORTS 4K
+http://109.71.252.138/AVASPORT2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x1WG7YWn/Picsart-26-03-21-00-15-07-671.jpg"group-title="KURDISH SPORTS",AVA SPORTSHD
+http://109.71.252.138/AVASPORT2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNtyfWQJ/Picsart-26-03-20-11-03-16-788.jpg" group-title="KURDISH SPORTS",ASTERA SPORTSHD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/280462.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nLF41BTV/Picsart-26-03-22-01-37-50-826.jpg"group-title="KURDISH SPORTS",ASTERASPORTS HD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/280462.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5V77TxH/Picsart-26-03-20-11-56-45-279.jpg" group-title="KURDISH SPORTS",AROSPORTS HD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/280430.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j5ZbrQyM/Picsart-26-02-25-03-00-36-935.jpg" group-title="KURDISH SPORTS",NEWLINE SPORTS HD
+http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/312651.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9QxdNjfP/Picsart-26-02-19-16-16-25-852.jpg" group-title="KURDISH SPORTS",MMN SPORTSHD
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRBbczRg/Picsart-26-02-19-16-37-15-557.png" group-title="KURDISH SPORTS",SEE SPORTS HD 1
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511349
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2658cPVQ/Picsart-26-02-19-16-33-19-342.jpg" group-title="KURDISH SPORTS",SEE SPORTS HD 3
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511328
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/05TKjyzW/Picsart-26-02-19-16-35-23-831.jpg" group-title="KURDISH SPORTS",DUHOK SPORTS HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511363
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3Jhrz443/Picsart-26-02-19-16-38-23-496.png" group-title="KURDISH SPORTS",DASINYA SPORTSHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511330
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Pf9cy4Qs/Picsart-26-02-19-19-16-48-200.jpg" group-title="KURDISH SPORTS",GAWAHER SPORTS HD
