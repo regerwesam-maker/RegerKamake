@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rudaw.iq" tvg-logo="https://i.imgur.com/9vD3R0v.png" group-title="Kurdish",Rudaw TV
+https://shls-rudaw-prod.cdn.mangomolo.com/rudawlive/smil:rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://i.imgur.com/u7FvX8X.png" group-title="Kurdish",Kurdistan 24
+https://live.kurdistan24.net/kurdistan24/smil:kurdistan24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WaarTV.iq" tvg-logo="https://i.imgur.com/5XhO4m3.png" group-title="Kurdish",Waar TV
+https://shls-waartv-prod.cdn.mangomolo.com/waartv/smil:waartv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DuhokTV.iq" tvg-logo="https://i.imgur.com/vH6ZzZp.png" group-title="Kurdish",Duhok TV
+https://stream.duhoktv.net/live/duhoktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-logo="https://i.imgur.com/7YfW6yD.png" group-title="Kurdish",Kurdistan TV
+https://live.kurdistantv.net/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",AVA Entertainment
+https://shls-ava-prod.cdn.mangomolo.com/ava/smil:ava.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",NET TV
+https://shls-nettv-prod.cdn.mangomolo.com/nettv/smil:nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish",NRT HD
+https://shls-nrthd-prod.cdn.mangomolo.com/nrthd/smil:nrthd.smil/playlist.m3u8
