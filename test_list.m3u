@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Kurdistan24" tvg-logo="https://www.kurdistan24.net/Content/images/logo.png", Kurdistan 24 (Backup)
-https://live.kurdistan24.net/hls/k24-tv/index.m3u8
+#EXTINF:-1 tvg-id="Rudaw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Rudaw_Logo.png", RUDAW TV (LIVE)
+https://rb.gy/9j09m5
 
-#EXTINF:-1 tvg-id="beIN_Sports_News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BeIN_Sports_logo.svg/2560px-BeIN_Sports_logo.svg.png", beIN SPORTS NEWS (Live)
-https://beinsports.akamaized.net/ps/beinsports/news/index.m3u8
+#EXTINF:-1 tvg-id="K24" tvg-logo="https://www.kurdistan24.net/Content/images/logo.png", KURDISTAN 24 (LIVE)
+https://rb.gy/h6v6z3
 
-#EXTINF:-1 tvg-id="TRT_Kurdî" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_Kurdi_logo.png", TRT Kurdî
-https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Aljazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_Channels_Network.svg/1200px-Al_Jazeera_Channels_Network.svg.png", AL JAZEERA ARABIC
+https://live-hls-web-aje.akamaized.net/01/index.m3u8
 
-#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Geographic_logo.svg/1200px-National_Geographic_logo.svg.png", National Geographic (Wild)
-https://bit.ly/3yRz8H6
+#EXTINF:-1 tvg-id="TRT_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png", TRT WORLD (English)
+https://tv-trtworld.live.trt.com.tr/master.m3u8
