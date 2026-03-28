@@ -1,12 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rudaw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Rudaw_Logo.png", RUDAW TV (LIVE)
+#EXTINF:-1 tvg-id="Rudaw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Rudaw_Logo.png", --- کەنالێن کوردی (LIVESTREAM) ---
+
+#EXTINF:-1 tvg-id="Rudaw" tvg-logo="https://www.rudaw.net/Content/images/logo.png", RUDAW TV
 https://rb.gy/9j09m5
 
-#EXTINF:-1 tvg-id="K24" tvg-logo="https://www.kurdistan24.net/Content/images/logo.png", KURDISTAN 24 (LIVE)
+#EXTINF:-1 tvg-id="K24" tvg-logo="https://www.kurdistan24.net/Content/images/logo.png", KURDISTAN 24
 https://rb.gy/h6v6z3
 
-#EXTINF:-1 tvg-id="Aljazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Al_Jazeera_Channels_Network.svg/1200px-Al_Jazeera_Channels_Network.svg.png", AL JAZEERA ARABIC
-https://live-hls-web-aje.akamaized.net/01/index.m3u8
+#EXTINF:-1 tvg-id="Waar" tvg-logo="", WAAR TV
+https://rb.gy/waar_live
 
-#EXTINF:-1 tvg-id="TRT_World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png", TRT WORLD (English)
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Duhok" tvg-logo="", DUHOK TV (LOCAL)
+http://185.105.184.22:1935/duhok/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT_Kurdi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_Kurdi_logo.png", TRT KURDI
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat" tvg-logo="", KURDSAT NEWS
+https://rb.gy/kurdsat_live
