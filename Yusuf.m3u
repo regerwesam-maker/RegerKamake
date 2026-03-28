@@ -413,3 +413,4 @@ http://sportook.online/BEIN-S7/video.m3u8
 #EXTINF:0 CUID="17483" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 8 4K
 http://blue4k.net:8880//884647623798/254192480919/12351
 #EXTINF:0 CUID="17486" tvg-name="BEIN SPORTS 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 9 4K
+https://raw.githubusercontent.com/RegerKamake/test_list.m3u/main/test_list.m3u
