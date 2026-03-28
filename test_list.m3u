@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/regerwesam-maker/RegerKamake/main/logo.png", --- کەنالێن کوردی ---
+#EXTINF:-1 tvg-id="Kurdistan24" tvg-logo="https://www.kurdistan24.net/Content/images/logo.png", Kurdistan 24
+https://live.kurdistan24.net/hls/k24-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="DuhokTV" tvg-logo="", Duhok TV
+http://185.105.184.22:1935/duhok/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="", --- وەرزشی و سینەما ---
+#EXTINF:-1 tvg-id="beIN_Sports_News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BeIN_Sports_logo.svg/2560px-BeIN_Sports_logo.svg.png", beIN SPORTS NEWS
+https://beinsports.akamaized.net/ps/beinsports/news/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/MBC_2_logo_2012.png/250px-MBC_2_logo_2012.png", MBC 2 (Movies)
+https://shls-mbc2-prod-dub.shahid.net/out/v1/4508930e4b104996947690f4882e7b78/index.m3u8
