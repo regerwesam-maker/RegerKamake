@@ -5,3 +5,4 @@ A lightweight and fast Android application to stream Kurdish TV channels. Featur
 - **Platform:** Android
 - **Version:** 1.0 (Initial Release)
 - **Features:** Fast streaming, modern UI, No Ads.
+<img width="1408" height="768" alt="1000040287" src="https://github.com/user-attachments/assets/4ba3ea7a-51f8-4140-a776-d4549f08ea93" />
