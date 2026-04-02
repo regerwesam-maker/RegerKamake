@@ -85,6 +85,12 @@ https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 #EXTINF:0 CUID="8527" tvg-name="KURDMAX SHOW کرمانجی" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title="KURDISH ",KURDMAX SHOW کرمانجی
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI SLEMANE
+https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI HAWLER
+https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI DHOK
+https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 #EXTINF:0 CUID="8534" tvg-name="Qalam" tvg-logo="QALAM TV" group-title="KURDISH ",Qalam
 http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/301674
 #EXTINF:0 CUID="8534" tvg-name="Qalam Ayni" tvg-logo="https://i.postimg.cc/ZTJ7px4k/qalamain.png" group-title="KURDISH ",Qalam Ayni
