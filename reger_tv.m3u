@@ -28,7 +28,12 @@ http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/129959.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BnJ46r4f/Picsart-26-02-19-15-57-12-990.jpg" group-title="KIRDSH CHANAL LOKAL",Speda Drama HD
 http://zerox1.xyz:8080/play/live.php?mac=00:1A:79:BA:D3:E0&stream=802168&extension=ts&play_token=zNnhsxFNuo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bYbhRyvt/Picsart-26-02-19-15-58-19-016.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Badine HD
-https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI SLEMANE
+https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI HAWLER
+https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI DHOK
+https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bYbhRyvt/Picsart-26-02-19-15-58-19-016.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Sorani HD
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yjXcnfg/Picsart-26-02-19-16-01-12-677.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Show HD
