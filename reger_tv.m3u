@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DZ4k0bVN/IMG-20260320-181823-916.jpg" group-title="KIRDSH CHANAL LOKAL",KIRDSH CHANAL LOKAL
-https://github.com/mhammadhusen-del/Mirna-video-/raw/refs/heads/main/lv_0_20260320174108%20(1).mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KjCgPZcY/Picsart-26-02-19-15-43-21-609.jpg" group-title="KIRDSH CHANAL LOKAL",AVA_TV
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J00hYSY9/Picsart-26-02-19-15-32-35-600.jpg" group-title="KIRDSH CHANAL LOKAL",Rudaw TV HD
