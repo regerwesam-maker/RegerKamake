@@ -91,28 +91,6 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/764Z35yK/Picsart-26-02-19-16-18-44-598.jpg" group-title="KIRDSH CHANAL LOKAL",khak TV HD
 http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1znvGzKQ/Picsart-26-02-19-16-28-11-033.jpg" group-title="KIRDSH CHANAL LOKAL",NRT SPORTS HD
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511352
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x1WG7YWn/Picsart-26-03-21-00-15-07-671.jpg" group-title="KIRDSH CHANAL LOKAL",AVA SPORTS HD
-http://109.71.252.138/AVASPORT2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5V77TxH/Picsart-26-03-20-11-56-45-279.jpg" group-title="KIRDSH CHANAL LOKAL",ARO SPORTS HD
-http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/280430.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j5ZbrQyM/Picsart-26-02-25-03-00-36-935.jpg" group-title="KIRDSH CHANAL LOKAL",NEWLINE SPORTS
-http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/312651.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2658cPVQ/Picsart-26-02-19-16-33-19-342.jpg" group-title="KIRDSH CHANAL LOKAL",SEE SPORTS HD
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511328
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j5ZbrQyM/Picsart-26-02-25-03-00-36-935.jpg" group-title="KIRDSH CHANAL LOKAL",NEWLINE SPORTS
-http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/312651.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/05TKjyzW/Picsart-26-02-19-16-35-23-831.jpg" group-title="KIRDSH CHANAL LOKAL",DHOK SPORTS HD
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511363
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRBbczRg/Picsart-26-02-19-16-37-15-557.png" group-title="KIRDSH CHANAL LOKAL",SEE SPORTS 1HD
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511349
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3Jhrz443/Picsart-26-02-19-16-38-23-496.png" group-title="KIRDSH CHANAL LOKAL",DASINYA SPORTS HD
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511330
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Pf9cy4Qs/Picsart-26-02-19-19-16-48-200.jpg" group-title="KIRDSH CHANAL LOKAL",GAWHERA SOPRT TV
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528768
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KY6vxFrr/Picsart-26-02-19-19-04-04-901.jpg" group-title="KIRDSH CHANAL LOKAL",ZNAR TV HD
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378279
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L53SmDqx/Picsart-26-02-19-16-39-47-739.jpg" group-title="KIRDSH CHANAL LOKAL",AFARIN TV HD
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFx2qfz0/Picsart-26-02-19-16-41-32-463.jpg" group-title="KIRDSH CHANAL LOKAL",AFARIN KIDS TV
