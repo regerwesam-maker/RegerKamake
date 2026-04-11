@@ -31,6 +31,26 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5NCmPtYw/Picsart-26-02-19-17-51-26-912.jpg" group-title="KIRDSH CHANAL LOKAL",WAAR TVHD
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
+#EXTINF:-1 tvg-name="LD NUJIN" group-title="KURDISTAN",LD NUJIN
+http://blue4k.net:8080/amagourxgold46/os34176849/567166
+#EXTINF:-1 tvg-name="MOVIES HD1" group-title="KURDISTAN",MOVIES HD1
+http://blue4k.net:8080/amagourxgold46/os34176849/567167
+#EXTINF:-1 tvg-name="MOVIES HD2" group-title="KURDISTAN",MOVIES HD2
+http://blue4k.net:8080/amagourxgold46/os34176849/567168
+#EXTINF:-1 tvg-name="MOVIES HD3" group-title="KURDISTAN",MOVIES HD3
+http://blue4k.net:8080/amagourxgold46/os34176849/567169
+#EXTINF:-1 tvg-name="MOVIES HD4" group-title="KURDISTAN",MOVIES HD4
+http://blue4k.net:8080/amagourxgold46/os34176849/567170
+#EXTINF:-1 tvg-name="MOVIES HD5" group-title="KURDISTAN",MOVIES HD5
+http://blue4k.net:8080/amagourxgold46/os34176849/567171
+#EXTINF:-1 tvg-name="MED MUSIC" group-title="KURDISTAN MUSIC",MED MUSIC
+http://blue4k.net:8080/amagourxgold46/os34176849/567172
+#EXTINF:-1 tvg-name="NIROJ QURAN" group-title="KURDISTAN ISLAMIC",NIROJ QURAN
+http://blue4k.net:8080/amagourxgold46/os34176849/567173
+#EXTINF:-1 tvg-name="NIROJ HD" group-title="KURDISTAN",NIROJ HD
+http://blue4k.net:8080/amagourxgold46/os34176849/567174
+#EXTINF:-1 tvg-name="NRT2 BADINI" group-title="KURDISTAN",NRT2 BADINI
+http://blue4k.net:8080/amagourxgold46/os34176849/567176
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mD957Ssz/Picsart-26-02-19-18-05-59-096.png" group-title="KIRDSH CHANAL LOKAL",JIN TV HD
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02yCsCBN/Picsart-26-02-19-18-07-51-556.png" group-title="KIRDSH CHANAL LOKAL",NEX TV HD
