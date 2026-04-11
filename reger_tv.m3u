@@ -33,6 +33,8 @@ http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
 #EXTINF:-1 tvg-name="LD NUJIN" group-title="KURDISTAN",LD NUJIN
 http://blue4k.net:8080/amagourxgold46/os34176849/567167
+#EXTINF:-1 tvg-name="DASNYA FHD" group-title="KURDISTAN",DASNYA FHD
+http://blue4k.net:8080/amagourxgold46/os34176849/567148
 #EXTINF:-1 tvg-name="MOVIES HD2" group-title="KURDISTAN",MOVIES HD2
 http://blue4k.net:8080/amagourxgold46/os34176849/567168
 #EXTINF:-1 tvg-name="MOVIES HD3" group-title="KURDISTAN",MOVIES HD3
