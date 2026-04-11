@@ -31,7 +31,7 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5NCmPtYw/Picsart-26-02-19-17-51-26-912.jpg" group-title="KIRDSH CHANAL LOKAL",WAAR TVHD
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
-#EXTINF:-1 tvg-name="MOVIES HD1" group-title="KURDISTAN",MOVIES HD1
+#EXTINF:-1 tvg-name="LD NUJIN" group-title="KURDISTAN",LD NUJIN
 http://blue4k.net:8080/amagourxgold46/os34176849/567167
 #EXTINF:-1 tvg-name="MOVIES HD2" group-title="KURDISTAN",MOVIES HD2
 http://blue4k.net:8080/amagourxgold46/os34176849/567168
