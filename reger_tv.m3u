@@ -5793,48 +5793,49 @@ http://supaapp.xyz/live/462738737337/352672622626/429894.ts
 http://supaapp.xyz/live/462738737337/352672622626/429895.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISTAN",K-KURD MOVIES
 http://supaapp.xyz/live/462738737337/352672622626/429896.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: NRT Sport
-http://supaapp.xyz/live/462738737337/352672622626/358220.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Kurdistan Sport
-http://supaapp.xyz/live/462738737337/352672622626/358219.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Ava Sport
-http://supaapp.xyz/live/462738737337/352672622626/358221.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: See Sport 1
-http://supaapp.xyz/live/462738737337/352672622626/358222.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: See Sport 2
-http://supaapp.xyz/live/462738737337/352672622626/358223.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: See Sport 3
-http://supaapp.xyz/live/462738737337/352672622626/358224.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Aro Sport
-http://supaapp.xyz/live/462738737337/352672622626/358225.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Duhok Sport
-http://supaapp.xyz/live/462738737337/352672622626/358226.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: 4 Sport
-http://supaapp.xyz/live/462738737337/352672622626/358227.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Astera Sport
-http://supaapp.xyz/live/462738737337/352672622626/358228.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: LD Sport
-http://supaapp.xyz/live/462738737337/352672622626/358229.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Dasinya Sport
-http://supaapp.xyz/live/462738737337/352672622626/358230.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: MTV Sport
-http://supaapp.xyz/live/462738737337/352672622626/358231.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU:Aso Sport
-http://supaapp.xyz/live/462738737337/352672622626/358232.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Newline Sport
-http://supaapp.xyz/live/462738737337/352672622626/358233.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: MMN SPORT
-http://supaapp.xyz/live/462738737337/352672622626/358234.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: NUBAR SPORT
-http://supaapp.xyz/live/462738737337/352672622626/358235.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: SIMA SPORT
-http://supaapp.xyz/live/462738737337/352672622626/358236.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Zaxo Sport
-http://supaapp.xyz/live/462738737337/352672622626/358237.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: LD SPORT CHEAK
-http://supaapp.xyz/live/462738737337/352672622626/358238.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kurdistan Sport",KU: Delal Sport
-http://supaapp.xyz/live/462738737337/352672622626/358239.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="KU: NRT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: NRT Sport
+http://xlion.net:8080/747645/lion123123/358220
+#EXTINF:-1 tvg-id="" tvg-name="KU: Kurdistan Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Kurdistan Sport
+http://xlion.net:8080/747645/lion123123/358219
+#EXTINF:-1 tvg-id="" tvg-name="KU: Ava Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Ava Sport
+http://xlion.net:8080/747645/lion123123/358221
+#EXTINF:-1 tvg-id="" tvg-name="KU: See Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 1
+http://xlion.net:8080/747645/lion123123/358222
+#EXTINF:-1 tvg-id="" tvg-name="KU: See Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 2
+http://xlion.net:8080/747645/lion123123/358223
+#EXTINF:-1 tvg-id="" tvg-name="KU: See Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: See Sport 3
+http://xlion.net:8080/747645/lion123123/358224
+#EXTINF:-1 tvg-id="" tvg-name="KU: Aro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Aro Sport
+http://xlion.net:8080/747645/lion123123/358225
+#EXTINF:-1 tvg-id="" tvg-name="KU: Duhok Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Duhok Sport
+http://xlion.net:8080/747645/lion123123/358226
+#EXTINF:-1 tvg-id="" tvg-name="KU: 4 Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: 4 Sport
+http://xlion.net:8080/747645/lion123123/358227
+#EXTINF:-1 tvg-id="" tvg-name="KU: Astera Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Astera Sport
+http://xlion.net:8080/747645/lion123123/358228
+#EXTINF:-1 tvg-id="" tvg-name="KU: LD Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: LD Sport
+http://xlion.net:8080/747645/lion123123/358229
+#EXTINF:-1 tvg-id="" tvg-name="KU: Dasinya Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Dasinya Sport
+http://xlion.net:8080/747645/lion123123/358230
+#EXTINF:-1 tvg-id="" tvg-name="KU: MTV Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: MTV Sport
+http://xlion.net:8080/747645/lion123123/358231
+#EXTINF:-1 tvg-id="" tvg-name="KU: Aso Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Aso Sport
+http://xlion.net:8080/747645/lion123123/358232
+#EXTINF:-1 tvg-id="" tvg-name="KU: Newline Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Newline Sport
+http://xlion.net:8080/747645/lion123123/358233
+#EXTINF:-1 tvg-id="" tvg-name="KU: MMN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: MMN SPORT
+http://xlion.net:8080/747645/lion123123/358234
+#EXTINF:-1 tvg-id="" tvg-name="KU: NUBAR SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: NUBAR SPORT
+http://xlion.net:8080/747645/lion123123/358235
+#EXTINF:-1 tvg-id="" tvg-name="KU: SIMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: SIMA SPORT
+http://xlion.net:8080/747645/lion123123/358236
+#EXTINF:-1 tvg-id="" tvg-name="KU: Zaxo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Zaxo Sport
+http://xlion.net:8080/747645/lion123123/358237
+#EXTINF:-1 tvg-id="" tvg-name="KU: LD SPORT CHEAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: LD SPORT CHEAK
+http://xlion.net:8080/747645/lion123123/358238
+#EXTINF:-1 tvg-id="" tvg-name="KU: Delal Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Delal Sport
+http://xlion.net:8080/747645/lion123123/358239
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD CINEMA",world moveis Chinese
 http://supaapp.xyz/live/462738737337/352672622626/276000.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD CINEMA",world moveis Fr
