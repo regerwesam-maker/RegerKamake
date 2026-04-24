@@ -123,12 +123,6 @@ http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 #EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="KURDISH ",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI SLEMANE
-https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI HAWLER
-https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI DHOK
-https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2SMjf4B4/Picsart-26-03-19-23-43-29-557.png" group-title="ALWAN-SPORT",Alwan Sport 1 HD
 http://stap2025.me:8080/live/nsbp46qijx/ukbyu5668f/1641618.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2SMjf4B4/Picsart-26-03-19-23-43-29-557.png" group-title="ALWAN-SPORT",Alwan Sport 1 SD
