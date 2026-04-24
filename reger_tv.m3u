@@ -31,26 +31,6 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5NCmPtYw/Picsart-26-02-19-17-51-26-912.jpg" group-title="KIRDSH CHANAL LOKAL",WAAR TVHD
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
-#EXTINF:-1 tvg-name="LD NUJIN" group-title="KURDISTAN",LD NUJIN
-http://blue4k.net:8080/amagourxgold46/os34176849/567167
-#EXTINF:-1 tvg-name="DASNYA FHD" group-title="KURDISTAN",DASNYA FHD
-http://blue4k.net:8080/amagourxgold46/os34176849/567148
-#EXTINF:-1 tvg-name="MOVIES HD2" group-title="KURDISTAN",MOVIES HD2
-http://blue4k.net:8080/amagourxgold46/os34176849/567168
-#EXTINF:-1 tvg-name="MOVIES HD3" group-title="KURDISTAN",MOVIES HD3
-http://blue4k.net:8080/amagourxgold46/os34176849/567169
-#EXTINF:-1 tvg-name="MOVIES HD4" group-title="KURDISTAN",MOVIES HD4
-http://blue4k.net:8080/amagourxgold46/os34176849/567170
-#EXTINF:-1 tvg-id="" tvg-name="ATV KURD" tvg-logo="https://i.postimg.cc/jfbjWpG/ATV.png" group-title="KURDISTAN",ATV KURD
-http://blue4k.net:8080/live/amagourxgold46/os34176849/567133.m3u8
-#EXTINF:-1 tvg-name="DEVER TV" group-title="KURDISTAN",DEVER TV
-http://blue4k.net:8080/amagourxgold46/os34176849/567141
-#EXTINF:-1 tvg-name="MED MUSIC" group-title="KURDISTAN MUSIC",MED MUSIC
-http://blue4k.net:8080/amagourxgold46/os34176849/567172
-#EXTINF:-1 tvg-name="NIROJ QURAN" group-title="KURDISTAN ISLAMIC",NIROJ QURAN
-http://blue4k.net:8080/amagourxgold46/os34176849/567173
-#EXTINF:-1 tvg-name="Peshmarga" group-title="KURDISTAN",Peshmarga
-http://blue4k.net:8080/amagourxgold46/os34176849/567162
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mD957Ssz/Picsart-26-02-19-18-05-59-096.png" group-title="KIRDSH CHANAL LOKAL",JIN TV HD
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02yCsCBN/Picsart-26-02-19-18-07-51-556.png" group-title="KIRDSH CHANAL LOKAL",NEX TV HD
@@ -143,24 +123,6 @@ http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
 #EXTINF:0 CUID="8601" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="KURDISH ",MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:0 CUID="8530" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="KURDISH ",NEW LINE 1
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/296392
-#EXTINF:0 CUID="8531" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",NEW LINE 2
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/296393
-#EXTINF:0 CUID="8530" tvg-name="Newline Movies" tvg-logo="https://i.postimg.cc/xfcFTVrs/MOVIE.png" group-title="KURDISH ",Newline Movies
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/300750
-#EXTINF:0 CUID="8531" tvg-name="Newline Drama" tvg-logo="https://i.postimg.cc/Jm475Wtd/newdrama.png" group-title="KURDISH ",Newline Drama
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/300748
-#EXTINF:0 CUID="8530" tvg-name="Newline Bollywood" tvg-logo="https://i.postimg.cc/tRTXqFLH/BOLLYWOOD.png" group-title="KURDISH ",Newline Bollywood
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/300747
-#EXTINF:0 CUID="8531" tvg-name="Newline Kids" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",Newline Kids
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/300749
-#EXTINF:0 CUID="8531" tvg-name="Newline sport" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",newline sport
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/300751
-#EXTINF:0 CUID="8532" tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="KURDISH ",ZED TV
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/14899
-#EXTINF:0 CUID="8533" tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="KURDISH ",ZED TV PLUS
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/300772
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI SLEMANE
 https://parwarda.unitedmixmedia.tv/Parwarda/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Hk4T4PNm/Picsart-26-04-01-13-51-19-055.jpg" group-title="PARWARDA",PARWARDAYI HAWLER
