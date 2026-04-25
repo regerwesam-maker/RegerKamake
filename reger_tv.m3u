@@ -63,8 +63,8 @@ http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/287499
 #EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="KURDISH ",NRT 2
 https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
-#EXTINF:0 CUID="8514" tvg-name="NRT 3" tvg-logo="https://i.postimg.cc/594N5G2W/NRT3.png" group-title="KURDISH ",NRT 3
-http://blue4k.net:8880//884647623798/WaxzPSSzyY/287915
+#EXTINF:0 CUID="8514" tvg-name="bangawaztv" tvg-logo="https://i.postimg.cc/594N5G2W/bangawaztv.png" group-title="KURDISH ",bangawaztv
+http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:0 CUID="8514" tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="KURDISH ",NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="KURDISH ",RUDAW HD
