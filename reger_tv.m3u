@@ -103,8 +103,8 @@ http://jegrmediahussen.com:8088/JMedia/index.m3u8
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:0 CUID="8534" tvg-name="Mix-kurdy geoghraphic" tvg-logo="https://i.postimg.cc/fzK88tW3/qalam.png" group-title="KURDISH ",Mix-kurdy
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-#EXTINF:0 CUID="8534" tvg-name="Qalam kids" tvg-logo="QALAM TV" group-title="KURDISH ",Qalam kids
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/301677
+#EXTINF:0 CUID="8534" tvg-name="AvarTv" tvg-logo="AvarTv" group-title="KURDISH ",AvarTv
+https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:0 CUID="8539" tvg-name=" Bask Plus" tvg-logo="https://i.postimg.cc/6pgykLgw/photo-2026-02-23-11-25-56.jpg" group-title="KURDISH ", Bask Plus
 http://baskhd2.ddns.net:1935/live/basktv/playlist.m3u8
 #EXTINF:0 CUID="8556" tvg-name="HALABJA" tvg-logo="https://i.postimg.cc/ChRybCtn/halabja.png" group-title="KURDISH ",HALABJA
