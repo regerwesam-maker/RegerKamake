@@ -101,8 +101,8 @@ https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 http://jegrmediahussen.com:8088/JMedia/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/regerwesam-maker/RegerKamake/main/logo.png", AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:0 CUID="8534" tvg-name="Qalam geoghraphic" tvg-logo="https://i.postimg.cc/fzK88tW3/qalam.png" group-title="KURDISH ",Qalam geoghraphic
-http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/301676
+#EXTINF:0 CUID="8534" tvg-name="Mix-kurdy geoghraphic" tvg-logo="https://i.postimg.cc/fzK88tW3/qalam.png" group-title="KURDISH ",Mix-kurdy
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:0 CUID="8534" tvg-name="Qalam kids" tvg-logo="QALAM TV" group-title="KURDISH ",Qalam kids
 http://yusfstorevip.ddns.net:8080/mitrovic/19106b7cb4/301677
 #EXTINF:0 CUID="8539" tvg-name=" Bask Plus" tvg-logo="https://i.postimg.cc/6pgykLgw/photo-2026-02-23-11-25-56.jpg" group-title="KURDISH ", Bask Plus
