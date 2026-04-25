@@ -99,8 +99,6 @@ https://parwarda.unitedmixmedia.tv/Parwardayi_Hawler/tracks-v2a1/mono.m3u8
 https://parwarda.unitedmixmedia.tv/Parwardayi_Duhok/tracks-v2a1/mono.m3u8
 #EXTINF:0 CUID="8534" tvg-name="JMedia" tvg-logo="JMedia" group-title="KURDISH ",JMedia
 http://jegrmediahussen.com:8088/JMedia/index.m3u8
-#EXTINF:0 CUID="8534" tvg-name="AVA Series" tvg-logo="https://i.postimg.cc/ZTJ7px4k/AVA Series.png" group-title="KURDISH ",AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/regerwesam-maker/RegerKamake/main/logo.png", AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:0 CUID="8534" tvg-name="Qalam geoghraphic" tvg-logo="https://i.postimg.cc/fzK88tW3/qalam.png" group-title="KURDISH ",Qalam geoghraphic
