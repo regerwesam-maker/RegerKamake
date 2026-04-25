@@ -280,8 +280,8 @@ http://xlion.net:8080/747645/lion123123/358232
 http://xlion.net:8080/747645/lion123123/358233
 #EXTINF:-1 tvg-id="" tvg-name="KU: MMN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: MMN SPORT
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KU: NUBAR SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: NUBAR SPORT
-http://xlion.net:8080/747645/lion123123/358235
+#EXTINF:-1 tvg-id="" tvg-name="KU: Gewher_Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Gewher_Sport
+https://iptv-link.short.gy/Gewher_Sport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KU: SIMA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: SIMA SPORT
 http://xlion.net:8080/747645/lion123123/358236
 #EXTINF:-1 tvg-id="" tvg-name="KU: Zaxo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Zaxo Sport
