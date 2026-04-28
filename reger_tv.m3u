@@ -35,6 +35,8 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 https://iptv-link.short.gy/Gewher.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mD957Ssz/Picsart-26-02-19-18-05-59-096.png" group-title="KIRDSH CHANAL LOKAL",Gewher2
 https://iptv-link.short.gy/Gewher_Kids.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mD957Ssz/Picsart-26-02-19-18-05-59-096.png" group-title="KIRDSH CHANAL LOKAL",HormzyarHD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mD957Ssz/Picsart-26-02-19-18-05-59-096.png" group-title="KIRDSH CHANAL LOKAL",JIN TV HD
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02yCsCBN/Picsart-26-02-19-18-07-51-556.png" group-title="KIRDSH CHANAL LOKAL",NEX TV HD
