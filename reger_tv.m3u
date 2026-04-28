@@ -295,6 +295,439 @@ http://xlion.net:8080/747645/lion123123/358238
 #EXTINF:-1 tvg-id="" tvg-name="KU: Delal Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/800px-Flag_of_Kurdistan.svg.png" group-title="Kurdistan Sport",KU: Delal Sport
 http://xlion.net:8080/747645/lion123123/358239
 #EXTM3U
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ RUDAW HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666437&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ K24 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666438&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ CHANNEL 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666439&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ NRT 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666440&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ NRT 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666441&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURDSAT TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666442&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURDSAT NEWS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666443&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURDISTAN TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666444&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ GALI KURDISTAN TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666445&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KIRKUK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666446&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ ZAGROS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666448&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ PAYAM TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666449&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ SPEDA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666450&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ AMOZHGARY TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666452&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ BANGAWAZ TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666453&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ NRT 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666454&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURDMAX SORANI HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666455&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURDMAX KURMANJI HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666456&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURDMAX SHOW KURMANJI HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666458&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURDMAX SHOW HD SORANI
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666457&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ AVA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666436&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ NRT 3 KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666459&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ ZAROK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666460&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ TRT KURDI
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666461&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ IRAQIA KURDISH TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666462&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ SAHAR KURDI TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666463&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ MED MUSIC TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666464&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ WAAR TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666465&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ STERK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666467&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ ARYEN TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666468&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ RONAHI TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666469&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ CIRA TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666470&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ ROJAVA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666471&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ JIN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666472&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ NEU TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666473&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KURD CHANNEL HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666474&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ KOMAL HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666451&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ ROJHELAT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666466&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH SAT",â”ƒKURD-SATâ”ƒ SHAMS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1666447&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",âک°âک°âک°âک° â”ƒKURDâ”ƒ SURYOYO â”ƒSDâ”ƒ âک°âک°âک°âک°
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=213888&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ SURYOYO SAT
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=213759&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ SUROYO TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=213761&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ SUBORO TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=213760&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",âک°âک°âک°âک° â”ƒKURDâ”ƒ KURDISTAN â”ƒSDâ”ƒ âک°âک°âک°âک°
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=213889&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NRT FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638753&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NRT 2 FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638752&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NRT 3 KIDS
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638751&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NRT 4 FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638750&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDMAX FHD KUR
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638749&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDMAX FHD SOR
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638748&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDMAX SHOW FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638747&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDMAX PEPULE FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638746&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KTV FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638745&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ K24 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638744&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ZAGROS FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638743&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ AVA TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638741&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ISHTAR TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638740&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ RUDAW FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638739&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDSAT NEWS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638738&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ RONAHI TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638737&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ STERK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638736&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ TRT KURDI FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638735&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ MEDYA HABER TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638734&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ARYEN TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638732&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ MED MUZIK
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638731&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ZAROK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638730&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ CIRA TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638729&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ WAAR TV FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638728&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDSAT FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638727&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ROJAVA TV FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638726&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KIRKUK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638725&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDMAX MUSIC FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638724&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ SPEDA TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638723&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ BANGWAZ TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638722&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ SAHAR KURDI
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638721&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ PAYAM TV FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638720&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ JIN TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638719&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ASMAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638718&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ASTERA BABY
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638717&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ASTERA FAMILY
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638716&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ASTERA MOVIE HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638715&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ASTERA SPORT
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638714&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KOMAL HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638713&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NEWLINE HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638712&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NEWLINE2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638711&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NIGA FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638710&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NIGA KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638709&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NIGA MOVIES HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638708&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ QALAT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638707&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ RENG DOCUMENT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638706&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ RENG HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638705&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ SHAYSTA TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638704&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ U TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638703&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ZED TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638702&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ DERWAZE TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638701&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ DUHOK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638700&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ GALI KURDISTAN
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638699&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ATV KURD HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638698&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ZAROK (SORANI)
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638697&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ IRAQIYA KURDISH HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638696&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ KURDMAX HD (KURMAJI)
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638695&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NEWMAX COMEDY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638694&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ ROZH HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638693&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ NUBAR HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638692&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ AMOZHGARY TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638691&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ UTV DUHOK
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638690&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ DASINYA SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638689&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ HELHELOK HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638688&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH",â”ƒKURDâ”ƒ PESHMARGA HD (ONLY LIVE)
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=638687&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665880&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665891&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665881&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665882&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665890&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665883&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665884&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665889&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 9 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665888&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 10 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665885&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 11 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665886&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ACTION 12 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665887&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665908&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665909&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665916&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665910&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665911&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665912&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665913&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 9 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665914&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA COMEDY 10 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665915&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665907&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665900&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665906&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665901&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665902&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665903&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665904&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA BIOGRAPHY 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665905&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665892&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665893&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 3 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665895&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665894&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 5 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665896&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 6 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665897&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 7 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665898&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH 24/7",â”ƒKURDâ”ƒ KURD CINEMA ANIMATION 8 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1665899&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ FAMILY RAPARIN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667682&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ 4 KURD TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667723&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ 4 PLUS+ TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667683&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ZED HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667684&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ZED+ HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667685&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ NIGA MOVIES HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667775&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ NIGA FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667686&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ NIGA KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667745&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ RENG SPORT FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667739&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ RENG SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667728&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ RENG FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667687&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ RENG KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667744&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ RENG DOCUMENTARY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667718&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ RENG MUSIC HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667722&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ NEWLINE 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667688&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ NEWLINE 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667689&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASTERA MOVIES HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667773&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASTERA SHOW HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667774&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASTERA FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667690&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASTERA DOCUMENTARY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667716&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASTERA CULTURE HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667717&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASTERA BABY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667743&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ RASAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667691&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BMC HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667692&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ KHAK HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667693&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DASINYA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667800&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DASINYA SPORT FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667735&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DASINYA SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667803&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DASINYA KIDS HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667801&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DASINYA MUSIC HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667802&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ AFARIN BAXCHA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667742&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ AFARIN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667741&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ALA TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667795&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASHTI FAMILY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667786&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASHTI QURAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667787&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASMAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667772&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASO Sport fhd
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667733&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ASO SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667730&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ATV 2âœ¦
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667778&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ATVâœ¦
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667788&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ AVA Sport fhd
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667734&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ AVA SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667726&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ AZADI HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667797&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BABOLLY HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667798&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BANGXWAZEN BADINAN
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667706&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BARIN FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667703&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BARIN MOVIES FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667785&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BARIN QURAN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667783&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BASK+ HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667754&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BASK HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667753&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BINAR HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667796&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BNAR HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667711&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ BNAR MOVIES HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667782&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ CIHAN TV HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667799&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DANGI QURAN
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667705&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DELAL HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667804&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DERIN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667715&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DERWAZA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667805&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DERWAZA MUSIC HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667806&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DEVER HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667807&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DIMEN HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667808&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DUHOK SPORT FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667695&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DUHOK SPORT HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667696&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DUHOK TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667694&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ DUNYA TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667760&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ EMAN TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667759&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ ESTA HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667700&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ EURO KURD TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667704&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ EVIN TV
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667747&extension=ts
+#EXTINF:-1 group-title="â”ƒKURDâ”ƒ KURDISH DVB-T",â”ƒKURD DVB-Tâ”ƒ FAMILY BOX INFO HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=A0:BB:3E:18:9E:02&stream=1667677&extension=ts
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="" group-title="KURDISTAN",Rudaw
 http://xlion.net:8080/747645/lion123123/429643
 #EXTINF:-1 tvg-id="" tvg-name="K24" tvg-logo="" group-title="KURDISTAN",K24
